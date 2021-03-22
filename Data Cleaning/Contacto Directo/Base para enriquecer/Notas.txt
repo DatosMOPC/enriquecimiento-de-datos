@@ -1,0 +1,1 @@
+Esta carpeta contiene datos que nos enviaron para enriquecer (como si MO&PC fuese un proveedor y tiene que enriquecer datos para alguien más).
