@@ -1,0 +1,48 @@
+Primero que nada para poder hacer la comparación debemos de proveer de una lista de DNI's o datos para que Facundo pueda mandar a Certero.
+
+Datos para enviar a Certero.
+Se debe obtener los datos de lo que ya tenemos
+
+Pero se puede hacer directamente algo general
+Los datos de IDMOROSO deben ser únicos pero hay que procesarlos
+por lo que hay que saber qué se necesita para procesar.
+Se necesita:
+- IDMOROSO
+- TIPO_DOC
+- NRO_DOC
+- IDCLIENTE
+- DATOADIC
+
+Todos los datos se guardan finalmente en NRO_DOC
+
+PARA LA QUERY
+Primero hay que obtener de cartera los datos de los que hay y no hay mezclados a partir de una cierta fecha
+siempre y cuando no sea de COTO
+
+
+==================================================================================================
+
+Para crear el comparador de datos primero hay que sacar los datos necesarios que en este caso son los mismos que para
+obtener los DNI de procesamiento pero sin necesidad de filtrar y eliminar duplicados.
+Lo necesario:
+- IDMOROSO
+- IDCLIENTE
+- TIPO_DOC
+- NRO_DOC
+- DATOADIC
+- TIPO    (tabla DAM_CONTACTABILIDAD_FILTRADA)
+- DATO
+- SCORE_DATO
+- TIENE_MAIL
+
+Hay que hacer todo el tema del procesamiento y luego crear algunas reglas para definir si un proveedor es bueno o malo
+hay que poder cuantificar cuán bueno es un dato para la empresa.
+MIN(SCORE_DATO) = 0
+MAX(SCORE_DATO) = 100
+
+No se tiene el dato = 5
+Se tiene el dato = round(4*SCORE_DATO/100)
+valor = no_hay + se_tiene
+
+También hay que mostrar el porcentaje de datos que teníamos vs los que no
+
