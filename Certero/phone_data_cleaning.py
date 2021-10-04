@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import datetime
 from datetime import date
 
 
@@ -209,6 +210,9 @@ def procesar(path_sumario,path_enriquecimiento,tipo):
         elif 'LE' in string_dni:
             tipo = 'LE'
 
+        elif 'CI' in string_dni:
+            tipo = 'CI'
+
         elif 'DNIE' in string_dni:
             tipo = 'DNIE'
 
@@ -257,6 +261,9 @@ def procesar(path_sumario,path_enriquecimiento,tipo):
 
         elif 'LE  ' in string_dni:
             dni = string_dni.split('LE  ')[1]
+
+        elif 'CI  ' in string_dni:
+            dni = string_dni.split('CI  ')[1]
 
         elif 'CUIT' in string_dni:
             dni = string_dni.split('CUIT')[1]
@@ -360,6 +367,10 @@ def procesar(path_sumario,path_enriquecimiento,tipo):
     df_export ['DATO'] = df_export ['DATO'].astype(str)
     df_export ['DATO'] = df_export ['DATO'].str.strip()
     df_export ['DATO'] = df_export ['DATO'].str.split('.').str[0]
+    if tipo != 1: df_export = df_export.dropna(subset=['CUIT_CUIL']).reset_index()
+    #print(df_export['CUIT_CUIL'][125])
+
+
     df_export['CUIT_CUIL'] = [(str(int(round(df_export['CUIT_CUIL'][i],0)))) for i in range (df_export['CUIT_CUIL'].count())]
 
     df_export = df_export.drop_duplicates()
@@ -397,10 +408,14 @@ def procesar(path_sumario,path_enriquecimiento,tipo):
 
     return df_export2
 
-df1 = procesar("sumario_fis.csv","Datos_Enriquecimiento.csv",1) # 1 para persona física
-df2 = procesar("sumario_jur.csv","Datos_Enriquecimiento.csv",2)
-df_export = pd.concat([df1,df2])
 
+path_enr = "Datos_Enriquecimiento/Datos_Enriquecimiento_"+str(datetime.date.today())+".csv"
+
+df1 = procesar("sumario_fis.csv",path_enr,1) #TIPO 1 PARA FISICA
+df2 = procesar("sumario_jur.csv",path_enr,2) #TIPO 2 PARA JURIDICA
+
+df_export = pd.concat([df1,df2])
+#df_export = df2
 # # Export a Pipeline: Duplicados
 path = "insiders/phone_"+str(date.today())+".csv"
 df_export.to_csv(path,index=False)

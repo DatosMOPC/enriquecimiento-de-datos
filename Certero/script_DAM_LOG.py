@@ -1,7 +1,8 @@
 import pandas as pd
 import numpy as np
 import sys
-from datetime import datetime, date
+import datetime
+from datetime import date
 
 sys.path.append("/home/tetotille/Escritorio/MOPC/enriquecimiento")
 
@@ -9,7 +10,10 @@ sys.path.append("/home/tetotille/Escritorio/MOPC/enriquecimiento")
 def iniciar_procesado(fecha_envio_log,fecha_insercion_log,fecha_estados_log):
     # #LOG
     #1. Datos enviados
-    df_log = pd.read_csv("Datos_Enriquecimiento.csv")
+
+    path_enr = "Datos_Enriquecimiento/Datos_Enriquecimiento_"+str(datetime.date.today())+".csv"
+
+    df_log = pd.read_csv(path_enr)
 
     df_log = df_log.rename(columns={"ESTADO": "ESTADO_ANTERIOR"})
     df_log = df_log [['IDMOROSO','DATOADIC','IDCLIENTE','ESTADO_ANTERIOR']]
@@ -88,8 +92,8 @@ def iniciar_procesado(fecha_envio_log,fecha_insercion_log,fecha_estados_log):
 
     #Esta fecha para el formato en el path
     fecha_inser = fecha_insercion_log[0:5]+fecha_insercion_log[8:10]+fecha_insercion_log[4:7]
-    df_pyp1 = pd.read_csv('insiders/mail_fis_'+fecha_insercion_log+'.csv')
-    df_pyp2 = df_pyp = pd.read_csv('insiders/phone_fis_'+fecha_insercion_log+'.csv')
+    df_pyp1 = pd.read_csv('insiders/mail_'+fecha_insercion_log+'.csv')
+    df_pyp2 = df_pyp = pd.read_csv('insiders/phone_'+fecha_insercion_log+'.csv')
 
     df_reduced1 = df_pyp1[['CUIT_CUIL','NRO_DOC']]
     df_reduced2 = df_pyp2[['CUIT_CUIL','NRO_DOC']]
@@ -290,7 +294,7 @@ def iniciar_procesado(fecha_envio_log,fecha_insercion_log,fecha_estados_log):
     df_clean['ENRIQUECIDO']=df_clean['ENRIQUECIDO'].astype(int)
     df_clean['ENRIQUECIDO'].value_counts()
 
-    df_clean.to_csv("DAM-LOG/dam_log_"+fecha_estados_log+".csv")
+    df_clean.to_csv("DAM-LOG/dam_log_"+fecha_estados_log+".csv",index=False)
     print("El programa fue exitoso.")
     print("Se guardó en "+"dam_log_"+fecha_estados_log+".csv")
 
@@ -298,4 +302,4 @@ def iniciar_procesado(fecha_envio_log,fecha_insercion_log,fecha_estados_log):
 fecha_envio_log = input('Ingrese la fecha que se mandó a enriquecer. Ej:2021-08-26\n') # Fecha en la que se envió a enriquecer los datos
 fecha_insercion_log = input('Ingrese la fecha en que se subió a la BD. Ej:2021-08-27\n') # Fecha en la que se insertaron los datos en la base de datos
 fecha_estados_log = str(date.today()) # Fecha actual
-iniciar_procesado(fecha_envio_log,fecha_insercion_log,fecha_estados_log)
+iniciar_procesado(fecha_envio_log,fecha_insercion_log,fecha_insercion_log)
