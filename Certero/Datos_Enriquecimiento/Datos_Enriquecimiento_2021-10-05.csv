@@ -1,0 +1,668 @@
+,IDMOROSO,NOMBRE,IDCLIENTE,ESTADO,FILTROA,DATOADIC,FASIGNACION,DOCUMENTO,TIPO
+0,DNI 25599714,MUNOZ AZUCENA DEL CARMEN                ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,25599714,DNI
+1,DNI 26549154,SAMIENTA NAZARENO NICOLAS               ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-05 10:32:02.700,26549154,DNI
+2,DNI 31693201,PANIAGUA ADRIANA RAQUEL                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,31693201,DNI
+3,DNI 40005652,PEREYRA FLORENCIA AGUSTINA              ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,40005652,DNI
+4,DNIE95944575,VILLALOBOS MAYERLING                    ,FRANCES_2012        ,ASIGNADO            ,1 - Ag 1ra          ,                              ,2021-09-13 00:00:00.000,95944575,DNI
+5,DNIE96064355,VALADAO DOS SANTOS JURACY               ,FRANCES_2012        ,ASIGNADO            ,1 - Ag 1ra          ,                              ,2021-08-16 00:00:00.000,96064355,DNI
+6,DNI 12432903,KOVAC DANIEL OMAR                       ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,12432903,DNI
+7,DNI 17520001,CERFOGLIO ALBERTO DANIEL                ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,17520001,DNI
+8,DNI 20769105,SOSA GRACIELA                           ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,20769105,DNI
+9,DNI 24758853,GARCIA PABLO EZEQUIEL                   ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,24758853,DNI
+10,DNI 25166302,MERA AVILA CARLOS NAHUEL                ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,25166302,DNI
+11,DNI 26336241,PAREDES FEDERICO                        ,FRANCES_2012        ,NO VISTO            ,1 - Ag 1ra          ,,2021-10-04 00:00:00.000,26336241,DNI
+12,DNI 28774236,NUNEZ MUNOZ LUCAS SEBASTIAN             ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,                              ,2021-10-04 00:00:00.000,28774236,DNI
+13,DNI 37161825,PAOLINO ERIC                            ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,37161825,DNI
+14,DNIE95925857,MELO CINTRA CAROLINE                    ,FRANCES_2012        ,ASIGNADO            ,2 - Ag 2ra          ,                              ,2021-08-23 00:00:00.000,95925857,DNI
+15,DNI 12113446,MACHINANDIARENA JOSE ALBERTO            ,FRANCES_2012        ,NO VISTO            ,1 - Ag 1ra          ,,2021-10-04 00:00:00.000,12113446,DNI
+16,DNI 12209284,ROBLE MARIA ANA                         ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,12209284,DNI
+17,DNI 13598713,AGUIRRE JOSE BENITO                     ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,13598713,DNI
+18,DNI 14074550,AVILA CARLOS ALFREDO                    ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,14074550,DNI
+19,DNI 19018287,CARRION ROSA FRANCIA                    ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,19018287,DNI
+20,DNI 21044897,RODONE JOSE LUIS                        ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,21044897,DNI
+21,DNI 24228430,SINGH CLAUDIO MARTIN                    ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,24228430,DNI
+22,DNI 28802926,RODRIGUEZ CAROLINA BEATRIZ              ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,28802926,DNI
+23,DNI 29376500,RODRIGUEZ JUAN ARNALDO                  ,FRANCES_2012        ,NO VISTO            ,1 - Ag 1ra          ,,2021-10-04 00:00:00.000,29376500,DNI
+24,DNI 34908844,ASPITIAL LEAL LUCAS EZEQUIEL            ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-05 10:32:02.700,34908844,DNI
+25,DNI 37753658,CABALLERO DAMIAN                        ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,37753658,DNI
+26,DNI 40215694,FERNANDEZ ANTONELLA DENISE              ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,                              ,2021-10-04 00:00:00.000,40215694,DNI
+27,DNI 41430833,AVILA BRISA                             ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,41430833,DNI
+28,DNI 31494669,MOYANO SEBASTIAN ALBERTO                ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,31494669,DNI
+29,DNI 38405488,BOTARDA ELIAS                           ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,26-11-2019 DIGITAL            ,2021-10-05 10:32:02.700,38405488,DNI
+30,LE  7776505,PEREZ JOSE MARIA                        ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,7776505,LE
+31,DNI 11181223,CARRIZO IRMA ANTONIA                    ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,11181223,DNI
+32,DNI 12258552,FLORES MIGUEL ANGEL                     ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,28-01 DIGITAL                 ,2021-10-05 10:32:02.700,12258552,DNI
+33,DNI 32268722,BENITEZ LUCIANO EZEQUIE                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,32268722,DNI
+34,DNI 33136175,ESPIN JESICA                            ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,33136175,DNI
+35,DNI 39768152,DOMINGUEZ LUDMILA MARIQUENA             ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,39768152,DNI
+36,DNI 11209893,BINCI GUILLERMO HECTOR                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,11209893,DNI
+37,DNI 30403385,LAINO MICAELA ANALIA                    ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,30403385,DNI
+38,DNI 33471408,RIOS SONIA MARISELA                     ,FRANCES_2012        ,NO VISTO            ,1 - Ag 1ra          ,,2021-10-04 00:00:00.000,33471408,DNI
+39,DNI 33935764,HEGOBURO MAURICIO EZEQUI                ,FRANCES_2012        ,NO VISTO            ,1 - Ag 1ra          ,,2021-10-04 00:00:00.000,33935764,DNI
+40,DNI 35352345,BARRIONUEVO NAHUEL OSVALDO              ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,35352345,DNI
+41,DNI 16735359,SALAS GUSTAVO                           ,FRANCES_2012        ,NO VISTO            ,1 - Ag 1ra          ,,2021-10-04 00:00:00.000,16735359,DNI
+42,DNI 24891240,FERREYRA ALEJANDRO DANIEL               ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,,2021-10-04 00:00:00.000,24891240,DNI
+43,DNI 31301744,CUERVO HERNAN DARIO                     ,FRANCES_2012        ,NO VISTO            ,1 - Ag 1ra          ,                              ,2021-10-04 00:00:00.000,31301744,DNI
+44,DNI 36120267,AGUILERA ALAN NATANAEL                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,36120267,DNI
+45,DNI 36215685,BURELLI DAIANA STEFANIA                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,36215685,DNI
+46,DNI 38176141,AMBROSIO MAXIMILIANO ALEXANDE           ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,38176141,DNI
+47,DNI 39962337,MACHADO GONZALO NAHUEL                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,39962337,DNI
+48,DNI 47100621,SALAZAR DIEGO GABRIEL                   ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,47100621,DNI
+49,DNIE92580068,CARDOZO MARTINEZ FLORA RAQUEL           ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,92580068,DNI
+50,DNI 28591060,DANUZZO JOSE MAXIMILIANO                ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,28591060,DNI
+51,DNI 32997695,NUNES JUAN PABLO                        ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,32997695,DNI
+52,DNI 36490269,RIVERA MARIA FLORENCIA                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-05 10:32:02.700,36490269,DNI
+53,DNI 41147665,LOPEZ RODRIGO MATIAS                    ,FRANCES_2012        ,NO VISTO            ,1 - Ag 1ra          ,27-08                         ,2021-10-05 10:32:02.700,41147665,DNI
+54,DNI 10423093,ARTACHO ANTONIO ERNESTO                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,10423093,DNI
+55,DNI 13174757,SABETTA JUAN VICTOR                     ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,13174757,DNI
+56,DNI 25977262,CARRIZO OSCAR ALEJANDRO                 ,FRANCES_2012        ,NO VISTO            ,1 - Ag 1ra          ,                              ,2021-10-04 00:00:00.000,25977262,DNI
+57,DNI 32189539,CARRACEDO MATIAS GABRIEL                ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,32189539,DNI
+58,DNI 32685639,PEDRAZA LUCRECIA MARIA JOSE             ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,,2021-10-04 00:00:00.000,32685639,DNI
+59,DNI 34058321,IBARGUREN SANTIAGO                      ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,34058321,DNI
+60,DNI 34378079,PEREZ JUAN PABLO                        ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,,2021-10-04 00:00:00.000,34378079,DNI
+61,DNI 34523746,PERALTA RICARDO ALBERTO                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,34523746,DNI
+62,DNI 34748417,SILVA EZEQUIEL DAMIAN                   ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,34748417,DNI
+63,DNI 36514379,MATURANO MICHAEL MARCEL                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,36514379,DNI
+64,DNI 37458852,ARIAS ALEJANDRA PURISIMA                ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,                              ,2021-10-04 00:00:00.000,37458852,DNI
+65,DNI 41141450,ERREGUERENA MARCELO ALEXANDER           ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,41141450,DNI
+66,DNI 42040773,PAEZ SABRINA BELEN                      ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,42040773,DNI
+67,DNIE95638248,REYES DAVIOT ANDRES ALFREDO             ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,95638248,DNI
+68,DNIE95905820,MATHEUS ALTOE ANA AMELIA                ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-08-23 00:00:00.000,95905820,DNI
+69,DNI 28065046,FERNANDEZ LUIS RODRIGO                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,28065046,DNI
+70,DNI 34248063,MAIDANA ESTEFANIA SOLEDAD               ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,34248063,DNI
+71,DNI 36950582,ONA GUSTAVO DANIEL                      ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,36950582,DNI
+72,DNI 37214687,PACHECO MARCELO ZENON                   ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,"4,731.61                      ",2021-10-05 10:32:02.700,37214687,DNI
+73,DNI 27042610,ROBLE MARCELO  DOMINGO                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,27042610,DNI
+74,DNI 35026271,CAJAL SOLEDAD                           ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,,2021-10-04 00:00:00.000,35026271,DNI
+75,DNI 36500663,CORONEL CARLOS EMMANUEL                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,36500663,DNI
+76,DNI 38997634,CELINA RAMIREZ SOSA JUAN MANUE          ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,,2021-10-04 00:00:00.000,38997634,DNI
+77,DNI 40410183,PECETO EDITH ANABEL                     ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,,2021-10-04 00:00:00.000,40410183,DNI
+78,DNIE94056787,TRILLO SOLANO MARIA VERONICA            ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,,2021-10-04 00:00:00.000,94056787,DNI
+79,DNIE95316306,MOLLINEDO CHOQUE MARCOS ABEL            ,FRANCES_2012        ,ASIGNADO            ,2 - Ag 2ra          ,                              ,2021-08-23 00:00:00.000,95316306,DNI
+80,DNI 20536221,BREST VICTOR CARLOS                     ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,20536221,DNI
+81,DNI 21848418,FLEITAS LILIANA ISABEL                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,21848418,DNI
+82,DNI 25058102,CASTA O CAROLINA TERESA                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,25058102,DNI
+83,DNI 31062650,TABORDA GABRIELA ANDREA                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,31062650,DNI
+84,DNI 35631849,VACCARILLI ORNELA CELESTE               ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,35631849,DNI
+85,LE  4641760,WEBER NESTOR                            ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,4641760,LE
+86,DNI 17345419,GOMEZ ISIDORO                           ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,17345419,DNI
+87,DNI 17652545,RAMIREZ RAMON CESAR                     ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,2978 (1)                      ,2021-10-05 10:32:02.700,17652545,DNI
+88,DNI 22177267,TUBIAS ANDREA KARINA                    ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,22177267,DNI
+89,DNI 32680284,RIVERO MAURICIO MARCOS                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,32680284,DNI
+90,DNI 34124882,MENDEZ BRAIAN                           ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,34124882,DNI
+91,DNI 37041459,NORIEGA SURBANO MATIAS EMANUEL          ,FRANCES_2012        ,NO VISTO            ,1 - Ag 1ra          ,                              ,2021-10-04 00:00:00.000,37041459,DNI
+92,LC  5915637,BARCOS ERMINDA A                        ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,5915637,LC
+93,DNI 14353234,RACEDO RAMON REYES                      ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,14353234,DNI
+94,DNI 24873089,CARRERO CLAUDIA LORENA                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,24873089,DNI
+95,DNI 26551103,FERNANDEZ HUGO DANIEL                   ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-05 10:32:02.700,26551103,DNI
+96,DNI 27820614,LUCERO RUBEN FRANCISCO                  ,FRANCES_2012        ,NO VISTO            ,1 - Ag 1ra          ,,2021-10-04 00:00:00.000,27820614,DNI
+97,DNI 29120624,RODA ERNESTO CEFERINO                   ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,29120624,DNI
+98,DNI 33827373,DEMA GISELLA ANAHI                      ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,33827373,DNI
+99,DNI 36816518,SOSA CUYEN MARIA FLORENCI               ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,36816518,DNI
+100,DNI 38406429,ACOSTA CRISTIAN                         ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,38406429,DNI
+101,DNI 39587595,PENA QUEVEDO QUEVEDO ELIAS EZE          ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,39587595,DNI
+102,DNI 40143268,DELLAGIOVANNA AGUSTINA                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,40143268,DNI
+103,DNI 41931191,QUINTANA ANGEL OMAR                     ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,41931191,DNI
+104,DNI 23599877,LUCO LINA ELIZABETH                     ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,,2021-10-04 00:00:00.000,23599877,DNI
+105,DNI 24889494,LOPEZ GUILLERMO HECTOR                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,24889494,DNI
+106,DNI 32245759,GONZALEZ HECTOR EDUARDO                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,32245759,DNI
+107,DNI 37451571,PALACIO JONATAN CARLOS                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,37451571,DNI
+108,DNIE94231668,ROMERO GIMENEZ FREDDY                   ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,94231668,DNI
+109,DNIE94296776,ZAVALETA JIMENEZ IVAN PEDRO             ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,94296776,DNI
+110,DNIE95981914,ARO LETICIA YUMI                        ,FRANCES_2012        ,ASIGNADO            ,3 - Ag 3ra          ,                              ,2021-08-09 00:00:00.000,95981914,DNI
+111,DNI 13034369,ALLENDE EDUARDO PEDRO                   ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,,2021-10-04 00:00:00.000,13034369,DNI
+112,DNI 21930797,VILLASANTI HUGO RAFAEL                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,21930797,DNI
+113,DNI 26058502,LOPEZ ALICIA                            ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,26058502,DNI
+114,DNI 26267457,COLUSSI CLAUDIO DANIEL                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,26267457,DNI
+115,DNI 34104803,PAZ SAAVEDRA LEONARDO JAVIER            ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,34104803,DNI
+116,DNI 37821964,CABANILLAS ANGEL ANDRES                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,37821964,DNI
+117,DNI 38395725,NETO MELANIE LUCIA                      ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,38395725,DNI
+118,DNI 38416730,SARGNIOTTI CYNTIA DAIANA RITA           ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,38416730,DNI
+119,DNI 41134851,RODRIGUEZ MARIA SOLEDAD                 ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,,2021-10-04 00:00:00.000,41134851,DNI
+120,DNIE94456340,QUISPE PARICAHUA GREGORIO               ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,,2021-10-04 00:00:00.000,94456340,DNI
+121,DNI 14116710,LUQUE LILIANA E                         ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-05 10:32:02.700,14116710,DNI
+122,DNI 34880621,RAMIREZ MIGUEL ENRIQUE RAMON            ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,,2021-10-04 00:00:00.000,34880621,DNI
+123,DNI 36636953,ROJO SAGASTA WALTER ARIEL               ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,36636953,DNI
+124,DNI 39193187,GOMEZ ENZO ANTONIO                      ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,39193187,DNI
+125,DNI 39936134,CORDOBA ARIEL MIGUEL                    ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,39936134,DNI
+126,DNIE93799250,REYES SAN MARTIN KATERINE VALESCA       ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,,2021-10-04 00:00:00.000,93799250,DNI
+127,DNIE95195771,NEIRA BEATRIZ                           ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,,2021-10-04 00:00:00.000,95195771,DNI
+128,DNIE95852655,RAMIREZ YEDRA JEAN CARLOS JOSE          ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,95852655,DNI
+129,DNIE96004241,BATISTA DE SOUZA LAURA                  ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,,2021-10-04 00:00:00.000,96004241,DNI
+130,DNI 23136756,LUNA PABLO ALEJANDRO                    ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,23136756,DNI
+131,DNI 27197128,ECHEVERRIA MARIANELA ALDANA             ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,27197128,DNI
+132,DNI 30837316,ARIAS PABLO FERNANDO                    ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,30837316,DNI
+133,DNI 32320958,COTARO GASTON NICOLAS                   ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,32320958,DNI
+134,DNI 32766236,BARBIERI FAVIO                          ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,32766236,DNI
+135,DNI 32883290,KERBS CINTHIA ROMINA                    ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,32883290,DNI
+136,DNI 35104874,SOLIZ VIDELA GIMENA                     ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,35104874,DNI
+137,DNI 41169277,CEJAS NANCY ELIZABETH                   ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,,2021-10-04 00:00:00.000,41169277,DNI
+138,DNI 50926989,FUENTES CAMPOS PABLO ELEAZAR            ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,50926989,DNI
+139,DNIE95785182,DE SOUSA SILVA LUCAS VINICIUS           ,FRANCES_2012        ,ASIGNADO            ,3 - Ag 3ra          ,                              ,2021-08-18 10:29:31.450,95785182,DNI
+140,DNIE95889166,PORTELA DE PAULO JOSELAINE              ,FRANCES_2012        ,ASIGNADO            ,3 - Ag 3ra          ,                              ,2021-09-20 00:00:00.000,95889166,DNI
+141,DNI 20995579,BENNER NORMA MIRTA                      ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,20995579,DNI
+142,DNI 21514403,PERALTA MABEL ALEJANDRA                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,21514403,DNI
+143,DNI 29053112,MAIDANA CESAR JAVIER                    ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,29053112,DNI
+144,DNI 29583832,FOLIK LUCIANA SOLEDAD                   ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,29583832,DNI
+145,DNI 29666633,CAJAL JORGE LUIS                        ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,29666633,DNI
+146,DNI 30643252,DIEZ MAXIMILIANO                        ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,30643252,DNI
+147,DNI 36941394,AGUIRRE ALEJANDRO CRISTOBAL             ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,F.NAC :20101993               ,2021-10-04 00:00:00.000,36941394,DNI
+148,DNIE92728341,ARBOLITO RODRIGUEZ JOSE RICARD          ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,25-09 FISICA                  ,2021-10-05 10:32:02.700,92728341,DNI
+149,DNIE95983650,TESSARI AVILA FERNANDA                  ,FRANCES_2012        ,ASIGNADO            ,3 - Ag 3ra          ,                              ,2021-08-23 00:00:00.000,95983650,DNI
+150,DNIE96026013,MARTINS VIEIRA PATRICIA APAREC          ,FRANCES_2012        ,EN GESTION          ,3 - Ag 3ra          ,                              ,2021-08-23 00:00:00.000,96026013,DNI
+151,DNI 20787767,CAPDEVILLA MIRTA DEL ROSARIO            ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,,2021-10-04 00:00:00.000,20787767,DNI
+152,DNI 23030959,BOGADO CRISTIAN DIEGO                   ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,23030959,DNI
+153,DNI 26190851,RAGUASI DARIO                           ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,26190851,DNI
+154,DNI 33684878,BENITEZ DIEGO DARIO                     ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-05 10:32:02.700,33684878,DNI
+155,DNI 34306744,ZAMORA FERNANDO ADRIEL                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,34306744,DNI
+156,DNI 36055114,HABERKON ROMINA BELEN                   ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,36055114,DNI
+157,DNI 43729241,VARANI LAUTARO ALFREDO                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,43729241,DNI
+158,LC  5483242,MOLINA TERESITA                         ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,5483242,LC
+159,DNI 12761027,RICCHIUTO NANCY NOEMI                   ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,12761027,DNI
+160,DNI 18400889,QUIROGA NANCY BEATRIZ                   ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,,2021-10-04 00:00:00.000,18400889,DNI
+161,DNI 21422326,LUNA VIVIANA                            ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,21422326,DNI
+162,DNI 27248701,GODOY MARIA ESTER                       ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,,2021-10-04 00:00:00.000,27248701,DNI
+163,DNI 27687124,BELTRAN ELIZONDO FLORENCIA              ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-05 10:32:02.700,27687124,DNI
+164,DNI 32916483,CRISTALDO CESAR JAVIER                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,32916483,DNI
+165,DNI 36737710,GUILQUERUCA HECTOR DANIEL               ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,36737710,DNI
+166,DNI 36821120,GIORGEVICH JONATHAN                     ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,36821120,DNI
+167,DNI 40655115,QUISPE GIULIANA                         ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,40655115,DNI
+168,DNI 41233796,ACEVEDO TOBIAS                          ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,41233796,DNI
+169,DNI 42962211,PEREYRA RODRIGO AARON                   ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,42962211,DNI
+170,LC  5704703,GONZALEZ MARTA DEL CARMEN               ,FRANCES_2012        ,NO VISTO            ,1 - Ag 1ra          ,,2021-10-04 00:00:00.000,5704703,LC
+171,DNI 16694691,GONZALEZ OSCAR ANTONIO                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,16694691,DNI
+172,DNI 30654337,BUSTOS MEDINA MARTIN ADOLFO             ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,30654337,DNI
+173,DNI 32382328,FUSARO MARINA ALDANA JENNIF             ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,32382328,DNI
+174,DNI 34308719,GUARI EMANUEL                           ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,34308719,DNI
+175,DNIE95961400,RAMOS TARAZONA DARMARIS DEL JE          ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-08-23 00:00:00.000,95961400,DNI
+176,DNI 16355461,ROJAS CARLOS RAMON                      ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,16355461,DNI
+177,DNI 29901375,CHAVES MARCOS ALEJANDRO                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,29901375,DNI
+178,DNI 36089495,CARILLO JONATAN                         ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,36089495,DNI
+179,DNI 42147206,CASTRO MARIA VICTORIA                   ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,42147206,DNI
+180,DNI 17944543,OUTEDA GUSTAVO FABIAN                   ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,17944543,DNI
+181,DNI 22554805,QUIPILDOR SONIA                         ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,,2021-10-04 00:00:00.000,22554805,DNI
+182,DNI 27930028,STIVALA RENDINA DIEGO GA                ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,27930028,DNI
+183,DNI 34852038,TUCCI DANIEL OSCAR                      ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-05 10:32:02.700,34852038,DNI
+184,DNI 37445206,CHAVES NADIA                            ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,37445206,DNI
+185,DNIE95928487,PINHO DA SILVA KETLEN NAYA              ,FRANCES_2012        ,ASIGNADO            ,2 - Ag 2ra          ,                              ,2021-08-23 00:00:00.000,95928487,DNI
+186,DNI 23171649,KOCH SANDRA                             ,FRANCES_2012        ,NO VISTO            ,1 - Ag 1ra          ,,2021-10-04 00:00:00.000,23171649,DNI
+187,DNI 37387373,BARRIENTOS DIEGO HERNAN                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,37387373,DNI
+188,DNI 37835361,GIMENEZ JUAN IGNACIO                    ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,37835361,DNI
+189,DNI 41457096,FERNANDEZ JUAN GABRIEL                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,41457096,DNI
+190,DNI 42935268,MARTININI FACUNDO GABRIEL               ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,42935268,DNI
+191,DNI 43776351,MENDOZA JULIA DEL CARMEN                ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-09-20 00:00:00.000,43776351,DNI
+192,DNI 22848891,LUDUENA NORA LIS                        ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,                              ,2021-10-04 00:00:00.000,22848891,DNI
+193,DNI 37879941,BUSSETTI CAMILA MARIANA                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,37879941,DNI
+194,DNI 39056612,AREVALO DIEGO                           ,FRANCES_2012        ,NO VISTO            ,1 - Ag 1ra          ,,2021-10-04 00:00:00.000,39056612,DNI
+195,DNI 39335997,QUINTANA MELISA SOLEDAD                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,39335997,DNI
+196,DNI 41217815,SANABRIA AGOSTINA AILEN                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,41217815,DNI
+197,DNI 43079302,RUPAYAN ANDRES JOSE SIMON               ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,43079302,DNI
+198,DNI 12627414,LOBOS ENRIQUE ALBERTO                   ,FRANCES_2012        ,NO VISTO            ,1 - Ag 1ra          ,                              ,2021-10-04 00:00:00.000,12627414,DNI
+199,DNI 32693599,BLANCO ALEJANDRO MAXIMILIAN             ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,32693599,DNI
+200,DNI 33030302,VEGA ABEL                               ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,,2021-10-04 00:00:00.000,33030302,DNI
+201,DNI 38309980,QUINTANA FERNANDO FABIAN                ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,38309980,DNI
+202,DNI 40490400,ARIAS MATIAS ALEJANDRO                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,40490400,DNI
+203,DNI 42311503,FARUGGIO  BOSSO GIULIANA ANTON          ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,,2021-10-04 00:00:00.000,42311503,DNI
+204,DNIE93003360,TORALES FLEITAS DAMIAN                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,93003360,DNI
+205,DNIE96002754,DA SILVA BARROS SUELEN                  ,FRANCES_2012        ,ASIGNADO            ,2 - Ag 2ra          ,                              ,2021-09-20 00:00:00.000,96002754,DNI
+206,LE  8562736,HERGERT ELIO EDMUNDO                    ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,8562736,LE
+207,DNI 18366500,GONZALEZ JOSE ALBERTO                   ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,18366500,DNI
+208,DNI 29124618,ARCOLIA ROQUE MOISES                    ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,29124618,DNI
+209,DNI 30933791,ESTERIO LEANDRO CRISTIAN                ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,30933791,DNI
+210,DNI 31827181,SALEGA ALEJANDRO JAVIER                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,31827181,DNI
+211,DNI 34412323,BAIGORRIA JONATAN EDGARDO               ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,34412323,DNI
+212,DNI 35417685,MARCON CARLOS YAMIL                     ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,35417685,DNI
+213,DNI 35819722,VERON DIEGO HERNAN                      ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,35819722,DNI
+214,DNI 39348095,ALMARAZ MACARENA SOLEDAD                ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,,2021-10-04 00:00:00.000,39348095,DNI
+215,DNI 40894141,ARANDA LEONARDO                         ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,40894141,DNI
+216,LE  8073441,MARTINEZ TOMAS EDUARDO                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,8073441,LE
+217,DNI 17259874,ACOSTA HECTOR OSVALDO                   ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,17259874,DNI
+218,DNI 20177786,TEJERINA EDUARDO NORMANDO               ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,20177786,DNI
+219,DNI 21178919,TOSCANO GABRIELA LAURA                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-05 10:32:02.700,21178919,DNI
+220,DNI 25674832,SOTZ CORONEL GUSTAVO EZEQUIEL           ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,25674832,DNI
+221,DNI 29661152,MEZA RICARDO DAVID                      ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,29661152,DNI
+222,DNI 31096867,PEDONE MARIA ALDANA                     ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-05 10:32:02.700,31096867,DNI
+223,DNI 31211501,BLUMBERG VICTOR MARCELO                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,31211501,DNI
+224,DNI 32347140,DE BIEN ROSA ROMINA                     ,FRANCES_2012        ,NO VISTO            ,1 - Ag 1ra          ,,2021-10-04 00:00:00.000,32347140,DNI
+225,DNI 34828705,PALAVECINO LUCIA BELEN                  ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,,2021-10-04 00:00:00.000,34828705,DNI
+226,DNI 37000458,PINTO MORALES EUGENIA SOLEDAD           ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,37000458,DNI
+227,DNI 37456693,QUIROGA TOLEDO MARIA DEL ROSARIO        ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,37456693,DNI
+228,DNI 37858214,SAN MARTIN LUCAS EZEQUIEL               ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,37858214,DNI
+229,DNI 38848217,CAMPLI GONZALO NICOLAS                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,38848217,DNI
+230,DNI 40018488,QUIROZ IGNACIO RUBEN                    ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,40018488,DNI
+231,DNI 40621019,SOFIA BELEN SALINAS                     ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,                              ,2021-10-04 00:00:00.000,40621019,DNI
+232,DNIE95606606,JHAVERI SWAPNIL I                       ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,95606606,DNI
+233,DNI 17459482,PABLO ERNESTO                           ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,17459482,DNI
+234,DNI 20410924,GARONE MARCELO ESTEBAN                  ,FRANCES_2012        ,NO VISTO            ,21 - Canal          ,,2021-09-29 00:00:00.000,20410924,DNI
+235,DNI 30101091,MEALLA CAROLINA SOLEDAD                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,30101091,DNI
+236,DNI 34727357,GOMEZ ANGEL LISANDRO                    ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,34727357,DNI
+237,DNI 34784759,AYALA BRAVO MICAELA SOLE                ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,34784759,DNI
+238,DNI 34949565,POMAR NICOLAS EZEQUIEL                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,34949565,DNI
+239,DNI 37538197,CASTRO MACIEL AYELEN ALEJANDRA          ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,,2021-10-04 00:00:00.000,37538197,DNI
+240,DNIE96051746,MOREIRA SILVA GENILMA                   ,FRANCES_2012        ,ASIGNADO            ,1 - Ag 1ra          ,                              ,2021-08-16 00:00:00.000,96051746,DNI
+241,LC  5430755,RUBIO NELIDA LUISA                      ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,5430755,LC
+242,DNI 21109646,VARGAS MARCELA FABIANA                  ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,,2021-10-04 00:00:00.000,21109646,DNI
+243,DNI 27424639,VARELA DIEGO ARTEMIO                    ,FRANCES_2012        ,NO VISTO            ,1 - Ag 1ra          ,,2021-10-04 00:00:00.000,27424639,DNI
+244,DNI 28258406,PALACIO PATRICIA PAOLA                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,28258406,DNI
+245,DNI 33222906,CARRIZO ALEJANDRA DEL VALLE             ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,24-12-2019 DIGITAL            ,2021-10-05 10:32:02.700,33222906,DNI
+246,DNI 36307941,TRAZMONTA VIVIANA DANIELA               ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,36307941,DNI
+247,DNI 16000305,PASTRANA NORMA GRACIELA                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-05 10:32:02.700,16000305,DNI
+248,DNI 23548221,DICIANO ELIZABETH INES                  ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,,2021-10-04 00:00:00.000,23548221,DNI
+249,DNI 28882168,GONZALO SUSANA LAURA                    ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,28882168,DNI
+250,DNI 30526311,GIMENEZ MARIA ELOISA                    ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,30526311,DNI
+251,DNI 31767357,SIVILOTTI FLAVIA ANABEL                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,31767357,DNI
+252,DNI 33411008,FILARDI JULIETA ALCIRA                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,33411008,DNI
+253,DNI 34946835,"SANCHEZ, DAVID FEDERICO                 ",FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,34946835,DNI
+254,DNI 35987892,MIRANDA BULNES JONATHAN ENRIQU          ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,35987892,DNI
+255,DNI 39713219,LENCINA LEANDRO JAVIER                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,39713219,DNI
+256,DNI 42248700,PANIGADA LUKAS ALEJO                    ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,6/9                           ,2021-10-05 10:32:02.700,42248700,DNI
+257,DNIE94043775,FERNANDEZ ALDERETE ISAURA BELE          ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,94043775,DNI
+258,DNI 17001380,HEREDIA NANCY LILIANA                   ,FRANCES_2012        ,NO VISTO            ,1 - Ag 1ra          ,,2021-10-04 00:00:00.000,17001380,DNI
+259,DNI 22826316,VARGAS JORGE ALBERTO                    ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,,2021-10-04 00:00:00.000,22826316,DNI
+260,DNI 25027540,VAVA GUSTAVO                            ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,25027540,DNI
+261,DNI 34253792,TEMPRANO HORACIO FACUNDO                ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,"4,138.96 (2)                  ",2021-10-05 10:32:02.700,34253792,DNI
+262,DNI 40353599,NARANJO MARTIN IVAN                     ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,40353599,DNI
+263,DNI 40868985,DOMINGUEZ ALEJANDRA                     ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,40868985,DNI
+264,DNIE94558986,LEGUIZA CRISTALDO                       ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,,2021-10-04 00:00:00.000,94558986,DNI
+265,DNI 25901031,QUIROGA FABIANA ANDREA                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,25901031,DNI
+266,DNI 31461267,LAGRANA LORENA BEATRIZ                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,31461267,DNI
+267,DNI 34779681,VILLENA JARA GABRIELA INES DEN          ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,34779681,DNI
+268,DNI 40479616,NAVARRO JUAN DOMINGO                    ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,40479616,DNI
+269,DNI 42728275,DELGADILLO MICAELA AGOSTINA             ,FRANCES_2012        ,NO VISTO            ,1 - Ag 1ra          ,,2021-10-04 00:00:00.000,42728275,DNI
+270,DNI 20064244,DEGIROLMO LAURA MYRIAM                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,20064244,DNI
+271,DNI 27076985,MURUA JOSE ROBERTO                      ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,27076985,DNI
+272,DNI 34622428,FRANCISCHELLI ALEJANDRA ANDREA          ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,,2021-10-04 00:00:00.000,34622428,DNI
+273,DNI 35958115,PALOMINO BRIAN EZEQUIEL                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,35958115,DNI
+274,DNI 42304893,PEDRAZA FLAVIA ARACELI DE LA            ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,,2021-10-04 00:00:00.000,42304893,DNI
+275,DNIE95862972,COSTA CAVALHEIRO JANE ALVES             ,FRANCES_2012        ,ASIGNADO            ,3 - Ag 3ra          ,                              ,2021-08-09 00:00:00.000,95862972,DNI
+276,DNIE96093456,AGUAYO IGNACIO                          ,FRANCES_2012        ,ASIGNADO            ,1 - Ag 1ra          ,                              ,2021-08-16 00:00:00.000,96093456,DNI
+277,DNI 24473884,GONZALEZ DANIEL ARIEL                   ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,24473884,DNI
+278,DNI 24732366,SCHMIDT ENRIQUE SERGIO MARCE            ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,24732366,DNI
+279,DNI 35122743,BONIFACIO MARIA SOLEDAD                 ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,,2021-10-04 00:00:00.000,35122743,DNI
+280,DNI 35339326,GALVAN ESCOBAR JONATHAN LEANDR          ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,35339326,DNI
+281,DNI 37021837,ALVAREZ LEANDRO NAHUEL                  ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,37021837,DNI
+282,DNI 37206323,CHAVEZ FEDERICO                         ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-05 10:32:02.700,37206323,DNI
+283,DNI 40596572,ROJAS BRIAN ANTONIO                     ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,40596572,DNI
+284,DNIE95784585,PEREIRA NEVES MARIA DAS DORES           ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-08-23 00:00:00.000,95784585,DNI
+285,DNIE95952188,FREIRE NASCIMENTO RAIANE                ,FRANCES_2012        ,ASIGNADO            ,3 - Ag 3ra          ,                              ,2021-09-20 00:00:00.000,95952188,DNI
+286,LC  5885829,SOSA GLORIA                             ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,5885829,LC
+287,DNI 16905443,PEREZ ADRIANA DEL VALLE                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,"1,940.21 (3)                  ",2021-10-05 10:32:02.700,16905443,DNI
+288,DNI 18491649,ROCHELLE CARLOS EDGARDO                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,18491649,DNI
+289,DNI 23166021,DABROWSKI MONICA                        ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,23166021,DNI
+290,DNI 23241280,RAMACCIONI DANIELA EGLE                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,23241280,DNI
+291,DNI 23469991,GRAMAJO CASELLINI MARIA                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,23469991,DNI
+292,DNI 28174560,PRONESTI CARLOS ALBERTO                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,28174560,DNI
+293,DNI 28910396,CARRASCO MARIANO MARTIN                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,28910396,DNI
+294,DNI 34386454,VELASQUEZ CAROLINA ELVA                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,34386454,DNI
+295,DNI 38699309,TULIAN MARIASOL                         ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,38699309,DNI
+296,DNI 39481114,ALONSO RAUL RICARDO                     ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,39481114,DNI
+297,DNI 40463853,RODRIGUEZ GUILLERMO FROI                ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,40463853,DNI
+298,DNI 40845815,MORALES RODRIGO SEBASTIAN               ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,40845815,DNI
+299,DNI 42365985,GOMEZ PABLO SEBASTIAN                   ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,42365985,DNI
+300,DNI 19069649,CRISTALLINI ANTONELLA LIZ               ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,                              ,2021-10-04 00:00:00.000,19069649,DNI
+301,DNI 21172683,CORONEL RAMON CLAUDIO                   ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,16/5 MAIL                     ,2021-10-05 10:32:02.700,21172683,DNI
+302,DNI 22177356,WEISS MAXIMILIANO PABLO                 ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,22177356,DNI
+303,DNI 27013885,CORREA DANIEL AGUSTIN                   ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,27013885,DNI
+304,DNI 30341838,LARA EDUARDO JESUS                      ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,30341838,DNI
+305,DNI 30572852,SZURPIK FERNANDO MARCELO                ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,30572852,DNI
+306,DNI 31993992,SANDOVAL DIEGO JAVIER                   ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,31993992,DNI
+307,DNI 34251872,DIALISSANDRO HUGO ROGELIO               ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,34251872,DNI
+308,DNI 34673147,SILVA KARINA NATALIA                    ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,                              ,2021-10-04 00:00:00.000,34673147,DNI
+309,DNI 35313378,LAGOS LOPEZ VICTOR MAXIMILIANO          ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,35313378,DNI
+310,DNI 36484027,ANDINO DAMIAN                           ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,36484027,DNI
+311,DNI 37956394,OTAROLA MARIA ESTELA                    ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,37956394,DNI
+312,DNI 45308265,NAVARRO ROCIO                           ,FRANCES_2012        ,NO VISTO            ,1 - Ag 1ra          ,,2021-10-04 00:00:00.000,45308265,DNI
+313,DNIE96073669,CASTILLO GUERRA YANNELIS TERESA         ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-09-27 00:00:00.000,96073669,DNI
+314,LE  7957847,HEREDIA OMAR FELIX                      ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,7957847,LE
+315,DNI 13963393,GALLEGO ROQUE N                         ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,13963393,DNI
+316,DNI 21393824,LUND LAURA ISABEL                       ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,,2021-10-04 00:00:00.000,21393824,DNI
+317,DNI 27030616,FERREYRA ELIO GABRIEL                   ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,27030616,DNI
+318,DNI 34285691,FRANCO CARRIZO ENRIQUE LAUREAN          ,FRANCES_2012        ,NO VISTO            ,2 - Ag 2ra          ,,2021-10-04 00:00:00.000,34285691,DNI
+319,DNI 34511715,NEQUI CESAR ROLANDO                     ,FRANCES_2012        ,NO VISTO            ,1 - Ag 1ra          ,,2021-10-04 00:00:00.000,34511715,DNI
+320,DNI 39536125,ALFARO PALAVECINO FABRICIO NIC          ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,,2021-10-04 00:00:00.000,39536125,DNI
+321,DNIE92694964,SOTO CHAVEZ FELIX                       ,FRANCES_2012        ,NO VISTO            ,1 - Ag 1ra          ,,2021-10-04 00:00:00.000,92694964,DNI
+322,DNIE95874200,"PAOLA,MENESES VIDAL                     ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Emp,                              ,2021-07-29 00:00:00.000,95874200,DNI
+323,DNI 39065831,"EZEQUIEL ANDRES,VEGA QUINTEROS          ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-10-01 00:00:00.000,39065831,DNI
+324,DNI 24490881,"VANESA,BERGOGLIO                        ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-09-30 00:00:00.000,24490881,DNI
+325,DNI 21451211,"GASTON JUAN SANTIAGO,LOPEZ NARVAJA      ",BSR_TARDIA          ,EN GESTION          ,Campana Extrajud Ind,                              ,2021-10-01 00:00:00.000,21451211,DNI
+326,DNIE95922349,"ISIS,MACIEL GARCIA                      ",BSR_TARDIA          ,EN GESTION_PORTAL   ,Campana Extrajud Ind,                              ,2021-04-29 00:00:00.000,95922349,DNI
+327,DNIE95887917,"BEATRIZ,PACHECO DO VALE                 ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-04-29 00:00:00.000,95887917,DNI
+328,DNI 13272143,FERREYRA LUIS EDUARDO                   ,BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-10-01 00:00:00.000,13272143,DNI
+329,CUIT30711758654,",COSTA RIVERA SRL                       ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Emp,30711758654                   ,2021-09-29 00:00:00.000,30711758654,CUIT
+330,DNI 39721509,"FRANCO DAVID,VALDEZ                     ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-09-28 00:00:00.000,39721509,DNI
+331,DNI 29928778,"ALEXIS ALBERTO,PEZZONI                  ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Emp,20299287786                   ,2021-09-28 00:00:00.000,29928778,DNI
+332,DNI 35939975,"PAULA GISELA,GOMEZ                      ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-10-01 00:00:00.000,35939975,DNI
+333,DNI 14628374,BAEZ HILDA GRACIELA                     ,BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-09-30 00:00:00.000,14628374,DNI
+334,DNI 29042727,"PABLO DANIEL,FERNANDEZ                  ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-10-01 00:00:00.000,29042727,DNI
+335,CUIT30716543443,",FABRELLO SERVICIOS SAS                 ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Emp,30716543443                   ,2021-09-07 00:00:00.000,30716543443,CUIT
+336,DNI 30261948,"CESAR HORACIO CARMELO,CALIVA            ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-09-30 00:00:00.000,30261948,DNI
+337,DNI 32936618,"NICOLAS DANIEL,GAJO                     ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-09-28 00:00:00.000,32936618,DNI
+338,CUIT30716334313,",ABASTECEDORA PORCINA MB SRL            ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Emp,30716334313                   ,2021-04-29 00:00:00.000,30716334313,CUIT
+339,DNI 34415393,"DEBORA BELEN,AYALA                      ",BSR_TARDIA          ,NO VISTO            ,Campana Extrajud Ind,                              ,2021-09-30 00:00:00.000,34415393,DNI
+340,DNI 23124835,ZILBERSZTEIN DIEGO HERNA                ,BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,CANCELACION                   ,2021-09-30 00:00:00.000,23124835,DNI
+341,DNIE93948412,LOZANO PRIETO ANDRES FELIPE             ,BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-04-29 00:00:00.000,93948412,DNI
+342,DNI 16083628,"MONICA DEL VALLE,TABORDA                ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-09-29 00:00:00.000,16083628,DNI
+343,DNI 34522813,"VICTOR HUGO,CACERES                     ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Emp,20345228137                   ,2021-09-29 00:00:00.000,34522813,DNI
+344,DNI 36644056,PRONER MARIANO                          ,BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-09-28 00:00:00.000,36644056,DNI
+345,DNI 13236589,ARONNO JUAN HECTOR                      ,BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-09-30 00:00:00.000,13236589,DNI
+346,DNI 33084378,"NATALIA PAOLA GISELA,TOLEDO GALLO       ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-09-29 00:00:00.000,33084378,DNI
+347,DNI 32386318,CASANO MARIANA                          ,BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-09-30 00:00:00.000,32386318,DNI
+348,DNI 34101862,"NICOLAS EZEQUIEL,PINTO BRETT            ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-10-01 00:00:00.000,34101862,DNI
+349,DNI 35402797,"MARTIN,DEVANNA                          ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-09-30 00:00:00.000,35402797,DNI
+350,DNIE94090724,SOBIESKI KAREN                          ,BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-09-30 00:00:00.000,94090724,DNI
+351,DNI 28758203,"ANA MARIA RITA,RONDA                    ",BSR_TARDIA          ,EN GESTION          ,Secuestro Prendario ,                              ,2021-04-28 00:00:00.000,28758203,DNI
+352,DNIE95171109,"CHRISTOPHER JAMES,HARRINGTON POLLACK    ",BSR_TARDIA          ,NO VISTO            ,Campana Extrajud Ind,                              ,2021-10-04 00:00:00.000,95171109,DNI
+353,CUIT30716558815,",GABAME DISTRIBUIDORA SRL               ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Emp,30716558815                   ,2021-04-29 00:00:00.000,30716558815,CUIT
+354,DNI 4703262,"ROBERTO EVARISTO,LEDO                   ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,20047032629                   ,2021-09-29 00:00:00.000,4703262,DNI
+355,DNIE93970056,"JOSE ENRIQUE,LEVANO ESPINOZA            ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-09-30 00:00:00.000,93970056,DNI
+356,LE  1377528,"GALILEO JOSE,MILENI                     ",BSR_TARDIA          ,SKIP LEVEL          ,Campana Extrajud Ind,20013775282                   ,2021-07-29 00:00:00.000,1377528,LE
+357,DNI 24199784,"CATALINO MIGUEL,PACHECO                 ",BSR_TARDIA          ,NO VISTO            ,Campana Extrajud Ind,                              ,2021-09-30 00:00:00.000,24199784,DNI
+358,DNI 31401939,"MARIA VICTORIA,ZABALA                   ",BSR_TARDIA          ,NO VISTO            ,Campana Extrajud Emp,27314019399                   ,2021-10-04 00:00:00.000,31401939,DNI
+359,DNI 36723189,"BELEN SOLEDAD,LAZARTE                   ",BSR_TARDIA          ,NO VISTO            ,Campana Extrajud Ind,                              ,2020-03-26 00:00:00.000,36723189,DNI
+360,LE  5386671,LOPEZ CARLOS ADELKI                     ,BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-10-01 00:00:00.000,5386671,LE
+361,CUIT30709408751,",ABOGADOS DE HOSPITALES DEL GOB ABOGADOS",BSR_TARDIA          ,SKIP LEVEL          ,Campana Extrajud Emp,                              ,2019-12-26 00:00:00.000,30709408751,CUIT
+362,CUIT30714524158,",MARTINEZ ID Y DIAZ ME SH               ",BSR_TARDIA          ,EN GESTION_PORTAL   ,Campana Extrajud Emp,30714524158                   ,2021-08-30 00:00:00.000,30714524158,CUIT
+363,DNIE94014326,"PIO,QUISPE CAPCHA                       ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-09-30 00:00:00.000,94014326,DNI
+364,DNIE94053177,PRIETO URRIBARRI FERNANDO JESUS         ,BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-09-30 00:00:00.000,94053177,DNI
+365,CUIT30716912384,",AGROCOMERCIALIZAD RANQUEL SAS          ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Emp,30716912384                   ,2021-09-10 00:00:00.000,30716912384,CUIT
+366,PAS 243586,"FERNANDO ALEXANDER,ADAMES VILLAMIL      ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,20604590095                   ,2021-07-29 00:00:00.000,243586,PAS
+367,CUIT33716298189,",LOGISTICA Y DISTRIBUCION SAN C         ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Emp,33716298189                   ,2021-04-29 00:00:00.000,33716298189,CUIT
+368,DNI 24199577,"DRAGO VIDAL,KAPOR                       ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Emp,20241995772                   ,2021-09-29 00:00:00.000,24199577,DNI
+369,DNI 25370227,"MARIA CECILIA,CASTELLS CANTO            ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-09-30 00:00:00.000,25370227,DNI
+370,DNIE95805918,"MILAGROS DEL CARMEN,CAMACARO YRIMA      ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-07-29 00:00:00.000,95805918,DNI
+371,DNI 29245867,"DAMIAN OSCAR,OVIEDO                     ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,20292458674                   ,2021-09-28 00:00:00.000,29245867,DNI
+372,DNI 30614200,CAnETE MARIA DE LOS ANGELES             ,BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-09-28 00:00:00.000,30614200,DNI
+373,DNI 33960548,"IVANA IRENE,PAVONI                      ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-09-28 00:00:00.000,33960548,DNI
+374,DNI 10893532,CAPPUCCIO RICARDO                       ,BSR_TARDIA          ,NO VISTO            ,Campana Extrajud Ind,,2021-10-04 00:00:00.000,10893532,DNI
+375,DNI 16589828,CUSANO VICTOR RODOLFO                   ,BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-09-30 00:00:00.000,16589828,DNI
+376,DNI 29932893,SANTA CRUZ MARTIN ALEJANDRO             ,BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-10-01 00:00:00.000,29932893,DNI
+377,DNI 36916659,"MELISA ALEJANDRA,MATIENZO               ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-09-29 00:00:00.000,36916659,DNI
+378,CUIT30716415127,",OURO PATRICIO LEONEL Y FAZIO N         ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Emp,30716415127                   ,2021-09-21 00:00:00.000,30716415127,CUIT
+379,DNI 30436280,"VALERIA NADIA,GONZALEZ                  ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-09-30 00:00:00.000,30436280,DNI
+380,DNI 38588266,ESPADA MARIA LUCIA                      ,BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-09-28 00:00:00.000,38588266,DNI
+381,DNIE93260655,"ANGEL MATIAS,ZAPATA                     ",BSR_TARDIA          ,NO VISTO            ,Campana Extrajud Ind,                              ,2021-10-04 00:00:00.000,93260655,DNI
+382,DNIE95891753,"DEBORAH DANIELE,RIBEIRO                 ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-04-29 00:00:00.000,95891753,DNI
+383,DNIE95944014,"MARIA YUREIBY,GONZALEZ RUIZ             ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,27959440145                   ,2021-07-29 00:00:00.000,95944014,DNI
+384,CUIT30715761560,",CORTECOR SRL                           ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Emp,30715761560                   ,2021-08-30 00:00:00.000,30715761560,CUIT
+385,DNI 21991950,"FABIO ANTONIO,SCALZONE                  ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,20219919507                   ,2021-09-30 00:00:00.000,21991950,DNI
+386,DNIE95808303,"CARIDAD AGUSTINA NIRVANA,SANZ           ",BSR_TARDIA          ,NO VISTO            ,Campana Extrajud Ind,                              ,2021-10-04 00:00:00.000,95808303,DNI
+387,CUIT30714709743,",LEMART FINANZA SA                      ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Emp,30714709743                   ,2021-09-29 00:00:00.000,30714709743,CUIT
+388,CUIT30715060104,",FUNDACION DE VIDA                      ",BSR_TARDIA          ,SKIP LEVEL          ,Campana Extrajud Emp,                              ,2019-12-26 00:00:00.000,30715060104,CUIT
+389,DNI 27328765,"ADRIAN ALEJANDRO,PAVON                  ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-09-28 00:00:00.000,27328765,DNI
+390,DNI 41101307,"JUAN SEBASTIAN,AVALOS                   ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-09-30 00:00:00.000,41101307,DNI
+391,CI  62933702,"JOSE LUIS,FERNANDEZ FERNANDEZ           ",BSR_TARDIA          ,EN GESTION_PORTAL   ,Campana Extrajud Emp,                              ,2021-07-29 00:00:00.000,CI62933702,CUIT
+392,DNI 25021605,BOCCARDO GABRIEL ANDRES                 ,BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-09-30 00:00:00.000,25021605,DNI
+393,DNIE93418515,"FRANCISCO RAMON,FERNANDEZ               ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Emp,20934185154                   ,2021-09-29 00:00:00.000,93418515,DNI
+394,DNI 12137898,GUDINO EDUARDO                          ,BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-10-01 00:00:00.000,12137898,DNI
+395,DNI 39730959,"PAULA DEL CARMEN,GONZALEZ FERNANDEZ     ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-10-01 00:00:00.000,39730959,DNI
+396,DNI 29230581,"CRISTIAN SEBASTIAN,GODOY                ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-09-30 00:00:00.000,29230581,DNI
+397,DNI 36062587,"SILVANA VANINA,BANCEROWSKI              ",BSR_TARDIA          ,NO UBICADO          ,Campana Extrajud Ind,                              ,2021-09-28 00:00:00.000,36062587,DNI
+398,DNI 5387155,"SILVIA NOEMI,ERDOCIAIN                  ",BSR_TARDIA          ,NO VISTO            ,Campana Extrajud Ind,                              ,2021-10-04 00:00:00.000,5387155,DNI
+399,RMS376636952732003,PAULA ANDREA ANDINO                     ,AMEX_ALLR           ,NO UBICADO          ,EDICOLA             ,27226300207                   ,2021-10-04 04:17:03.000,22630020,DNI
+400,RMS376637891182003,MARIANO REYNALDO CHIESA                 ,AMEX_TNLM           ,NO UBICADO          ,TMARATEA            ,20263871643                   ,2021-10-04 03:37:07.000,26387164,DNI
+401,RMS379975986181002,RUBEN ROSALES                           ,AMEX_ALLR           ,NO UBICADO          ,TMARATEA            ,23139238729                   ,2021-10-04 03:43:46.000,13923872,DNI
+402,RMS379975047631003,ROSA DAKESIAN                           ,AMEX_ALHR           ,NO UBICADO          ,EDICOLA             ,27149587859                   ,2021-10-01 04:39:12.000,14958785,DNI
+403,RMS376710877772004,MARTIN RODRIGUEZ                        ,AMEX_ALLR           ,NO UBICADO          ,EDICOLA             ,20300945881                   ,2021-10-04 04:17:04.000,30094588,DNI
+404,RMS376686420964001,WILFREDO CRUZ                           ,AMEX_ALLR           ,NO UBICADO          ,EDICOLA             ,                              ,2021-10-04 04:17:03.000,,DNI
+405,RMS376637062732008,RAMIRO J HIRIART URRUTY                 ,AMEX_ALLR           ,NO UBICADO          ,EDICOLA             ,20336341680                   ,2021-10-04 03:43:46.000,33634168,DNI
+406,RMS376638657741008,MARIA T BARNES CASTILLA                 ,AMEX_ALLR           ,NO UBICADO          ,EDICOLA             ,27316380102                   ,2021-10-04 04:17:03.000,31638010,DNI
+407,RMS376416258942006,ROBERTO BARRESI                         ,AMEX_TNRM           ,NO UBICADO          ,TMARATEA            ,20179515483                   ,2021-09-28 03:16:53.000,17951548,DNI
+408,RMS376711752365005,MARTIN ALEJANDRO MASSARI                ,AMEX_ALLR           ,NO UBICADO          ,TMARATEA            ,20362594171                   ,2021-10-02 10:39:35.000,36259417,DNI
+409,RMS376636412332006,MICAELA PICO                            ,AMEX_ALLR           ,NO UBICADO          ,EDICOLA             ,27384694794                   ,2021-10-04 04:17:03.000,38469479,DNI
+410,RMS376636702321008,RUBEN ALBERTO CALDEZ                    ,AMEX_ALLR           ,NO UBICADO          ,EDICOLA             ,20225373761                   ,2021-10-02 10:39:34.000,22537376,DNI
+411,RMS376687475691002,MARIO JAVIER LEDESMA                    ,AMEX_TNLM           ,NO UBICADO          ,EDICOLA             ,20255136047                   ,2021-09-29 03:15:18.000,25513604,DNI
+412,RMS379975994611008,CRISTIAN G OLIVIERI                     ,AMEX_ALLR           ,NO UBICADO          ,EDICOLA             ,20219424095                   ,2021-09-25 03:38:02.000,21942409,DNI
+413,RMS376639584193008,ALFREDO ORLANDO TEVEZ                   ,AMEX_TNLM           ,NO UBICADO          ,TMARATEA            ,20136697855                   ,2021-10-04 04:13:21.000,13669785,DNI
+414,RMS376687584731004,ALEJANDRO CASCELLI                      ,AMEX_TNLM           ,NO VISTO            ,TMARATEA            ,8273356                       ,2021-10-05 05:20:51.000,8273356,DNI
+415,RMS376417385931003,MARCELO MEANA                           ,AMEX_PARM           ,NO UBICADO          ,TMARATEA            ,20206944421                   ,2021-10-02 10:07:57.000,20694442,DNI
+416,RMS376637071331008,HECTOR DANIEL MIGONI                    ,AMEX_ALHR           ,NO UBICADO          ,TMARATEA            ,20107442473                   ,2021-10-04 03:43:45.000,10744247,DNI
+418,RMS376418364031005,RUBEN OSVALDO GOMEZ                     ,AMEX_PARM           ,NO UBICADO          ,TMARATEA            ,23076121079                   ,2021-10-02 10:39:37.000,7612107,DNI
+419,RMS376454849931006,MARIANO JULIO C STOKLE                  ,AMEX_TNCM           ,NO UBICADO          ,TMARATEA            ,30716365405                   ,2021-09-27 04:02:06.000,30716365405,CUIT
+420,RMS376418146361001,RICARDO MONDELLA                        ,AMEX_PARM           ,NO UBICADO          ,EDICOLA             ,20120807383                   ,2021-10-04 04:17:02.000,12080738,DNI
+421,RMS376418338361009,ABELINO GOMEZ                           ,AMEX_TNRM           ,NO UBICADO          ,TMARATEA            ,20107011901                   ,2021-09-29 04:01:56.000,10701190,DNI
+422,RMS376413988931003,BARBARA MAGGI                           ,AMEX_PBRM           ,NO UBICADO          ,EDICOLA             ,27230862252                   ,2021-10-02 10:39:34.000,23086225,DNI
+423,RMS376686649772003,RODOLFO BALENA                          ,AMEX_ALLR           ,NO UBICADO          ,EDICOLA             ,23176064099                   ,2021-10-04 04:17:04.000,17606409,DNI
+424,RMS376710087973004,ERNESTO RAUL AMIEVA                     ,AMEX_ALLR           ,NO UBICADO          ,EDICOLA             ,20131474963                   ,2021-10-01 03:35:44.000,13147496,DNI
+425,RMS376711464373008,PABLO JOSE A SMITARELLO                 ,AMEX_ALHR           ,NO UBICADO          ,TMARATEA            ,20214285402                   ,2021-10-02 10:39:35.000,21428540,DNI
+426,RMS376418692513005,MARIA DEL C M DE GUARDIA                ,AMEX_PARM           ,NO UBICADO          ,EDICOLA             ,27014499623                   ,2021-09-28 03:15:06.000,1449962,DNI
+427,RMS376637623312001,CARLOS IGNACIO PEREZ                    ,AMEX_ALLR           ,NO UBICADO          ,EDICOLA             ,20231780840                   ,2021-10-04 03:43:45.000,23178084,DNI
+428,RMS379975989381005,PABLO EMILIANO GUEVARA                  ,AMEX_ALHR           ,NO UBICADO          ,TMARATEA            ,20266058978                   ,2021-10-04 03:43:46.000,26605897,DNI
+429,RMS376688842322008,PAULA SCHLIMOVICH                       ,AMEX_ALLR           ,NO UBICADO          ,EDICOLA             ,21072737                      ,2021-10-04 04:17:05.000,21072737,DNI
+430,RMS376687198942005,HECTOR JOSE RALLIN                      ,AMEX_ALLR           ,NO UBICADO          ,EDICOLA             ,20083877147                   ,2021-10-01 03:26:38.000,8387714,DNI
+431,RMS376416651132007,JORGE ALEJANDRO AGUILAR                 ,AMEX_PARM           ,NO UBICADO          ,EDICOLA             ,20247583891                   ,2021-10-02 10:39:35.000,24758389,DNI
+433,RMS376418978952000,DIEGO HARTE                             ,AMEX_PARM           ,NO UBICADO          ,EDICOLA             ,23232924829                   ,2021-10-01 03:46:33.000,23292482,DNI
+434,RMS376407692951000,BLANCA S BATTAIOLA VITAR                ,AMEX_PARM           ,NO UBICADO          ,TMARATEA            ,27204007719                   ,2021-10-01 03:35:43.000,20400771,DNI
+435,RMS376418086076007,SERGIO OSCAR ANDRES                     ,AMEX_TNRM           ,NO UBICADO          ,EDICOLA             ,20144068867                   ,2021-09-27 04:22:28.000,14406886,DNI
+436,RMS376638334192005,FEDERICO S ANDREOLI                     ,AMEX_TNLM           ,NO UBICADO          ,TMARATEA            ,20260883292                   ,2021-10-04 03:37:07.000,26088329,DNI
+437,RMS376418652911009,ELVIS H MACCARI                         ,AMEX_PARM           ,NO UBICADO          ,EDICOLA             ,20174256633                   ,2021-10-02 10:07:57.000,17425663,DNI
+438,RMS376710635791007,LUIS S SCHMIDT GARCES                   ,AMEX_ALLR           ,NO UBICADO          ,EDICOLA             ,20308750079                   ,2021-10-04 04:17:03.000,30875007,DNI
+439,RMS376686684302005,DORA CRISTINA DICARLO                   ,AMEX_ALHR           ,NO UBICADO          ,EDICOLA             ,27099895271                   ,2021-10-04 03:43:45.000,9989527,DNI
+440,RMS376687298542002,ADRIAN LEONARDO BAEZ                    ,AMEX_ALLR           ,NO UBICADO          ,EDICOLA             ,20291934367                   ,2021-09-25 03:38:02.000,29193436,DNI
+441,RMS376635144344008,DR MARCELO BLANCO                       ,AMEX_TNLM           ,NO UBICADO          ,EDICOLA             ,23148247439                   ,2021-09-30 09:04:28.000,14824743,DNI
+443,RMS379975249391000,DANIEL SANCHEZ                          ,AMEX_ALLR           ,NO UBICADO          ,EDICOLA             ,13635300                      ,2021-10-04 03:43:45.000,13635300,DNI
+444,DNI 22470255,BAIELI MAXIMILIANO                      ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,22470255,DNI
+445,DNI 30035304,SOSA IGNACIO GERARDO                    ,PRENDARIOS_LEGALES  ,NO VISTO            ,,,2021-09-30 13:56:11.430,30035304,DNI
+446,DNI 4646057,"BERETTA, NESTOR FERNANDO                ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Libreta de Enrolamiento       ,2021-10-04 12:59:45.883,4646057,DNI
+447,DNI 95991017,"FERNANDEZ QUIJADA, ALEJANDRO MOISES     ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,95991017,DNI
+448,CUIT30714448265,GRANEVENT SA                            ,BBVA_LEG_PREJU_EMP  ,NO VISTO            ,,                              ,2021-10-04 09:40:46.977,30714448265,CUIT
+449,DNI 95721384,ROJAS ALVARENGA  ELIOENAI JOSUE         ,HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,                              ,2021-10-04 12:59:45.883,95721384,DNI
+450,DNI 18354856,"BRIZUELA, MIRIAM MABEL                  ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,18354856,DNI
+451,DNI 19065059,"ZAMORA GARCES, JAMES                    ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,19065059,DNI
+452,DNI 21052559,PUZIO ALEJANDRA CRISTINA                ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,21052559,DNI
+453,DNI 28026390,CABRERA ALBERTO RENE                    ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,28026390,DNI
+454,DNI 29560402,PEREZ GERMAN FRANCISCO                  ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,29560402,DNI
+455,DNI 24825470,GARRIDO RAUL ARIEL                      ,PRENDARIOS_LEGALES  ,NO VISTO            ,,,2021-09-30 13:56:11.430,24825470,DNI
+456,DNI 27663904,"RAFFAELLI, LUCAS EMILIANO               ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,27663904,DNI
+457,DNI 716020696,LQ VIAJES SAS                           ,HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,CUIT (treinta)                ,2021-08-17 13:58:55.100,716020696,CUIT
+458,DNI 14942319,ELIA JUAN JOSE                          ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,14942319,DNI
+459,DNI 24678287,ALTILIO ANTONIO GERARDO                 ,HSBC_LEGALES14      ,NO VISTO            ,                    ,                              ,2021-10-04 12:58:59.323,24678287,DNI
+460,DNI 25115305,"CAGESSO, MAXIMILIANO MARTIN             ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,25115305,DNI
+461,DNI 26703946,CURA ANDREA VALERIA                     ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,26703946,DNI
+462,DNI 27604674,TORREZ  JOSE MARIA                      ,HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,                              ,2021-10-04 12:59:45.883,27604674,DNI
+463,DNI 32327313,VALDEZ IVAN NAHUEL                      ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,32327313,DNI
+464,DNI 33505397,ELIAS JONATAN PABLO                     ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,33505397,DNI
+465,DNI 11945637,"MINTEGUIA,MARIA L                       ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,11945637,DNI
+466,DNI 14283196,FANTINCARLOS ALBERTO                    ,HSBC_LEGALES14      ,NO VISTO            ,                    ,,2021-10-04 12:58:59.323,14283196,DNI
+467,DNI 14689820,CID  RUBEN DARIO                        ,HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,                              ,2021-10-04 12:59:45.883,14689820,DNI
+468,DNI 16199034,"BELINI, EDUARDO MARCELO                 ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,16199034,DNI
+469,DNI 24185444,COSTILLA ROBERTO ANGEL                  ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,24185444,DNI
+470,DNI 29251917,MARTINEZ IBANEZ  JUAN ORLANDO           ,HSBC_LEGALES14      ,NO VISTO            ,                    ,                              ,2021-10-04 12:58:59.323,29251917,DNI
+471,DNI 4545985,"IMPRANTO,MIGUEL ANGEL                   ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Libreta de Enrolamiento       ,2021-10-04 12:59:45.883,4545985,DNI
+472,DNI 14045819,BALLESTERO ANTONIO                      ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,14045819,DNI
+473,DNI 28839174,"FERNANDEZ, OLGA VERONICA                ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,28839174,DNI
+474,DNI 31048100,"ANDRADA, VERONICA RAMONA                ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,31048100,DNI
+475,DNI 39447560,APRILE BARBARA                          ,PRENDARIOS_LEGALES  ,NO VISTO            ,,,2021-09-30 13:56:11.430,39447560,DNI
+476,DNI 94702934,CACERES SILVESTRE                       ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,94702934,DNI
+477,DNI 95686206,"GUZMAN GIMENEZ, CARLOS LUIS             ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,95686206,DNI
+478,CUIT30713809205,GRUPO TEMA SRL MIKEY                    ,BBVA_LEG_PREJU_EMP  ,EN GESTION          ,,                              ,2021-09-23 15:41:51.723,30713809205,CUIT
+479,DNI 13612049,RODRIGUEZ ZULEMA                        ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,13612049,DNI
+480,DNI 13923097,"GONZALEZ, NORBERTO M                    ",HSBC_LEGALES14      ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:58:59.323,13923097,DNI
+481,DNI 29531572,ZERMATHEN MAURO NICOLAS                 ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,29531572,DNI
+482,DNI 31443875,VALENZUELA LUIS RENE                    ,PRENDARIOS_LEGALES  ,NO VISTO            ,,,2021-09-30 13:56:11.430,31443875,DNI
+483,DNI 37000690,PALOMO FRANCO                           ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,37000690,DNI
+484,DNI 21455180,"CABRERA, PATRICIA SILVANA               ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,21455180,DNI
+485,DNI 715699237,LA MARCOTTE SRL                         ,HSBC_LEGALES14      ,EN GESTION          ,                    ,CUIT (treinta)                ,2021-05-27 12:16:37.120,715699237,CUIT
+486,DNI 95962538,SALAZAR GUEDES ELIANA ALVES             ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,95962538,DNI
+487,DNI 96008934,"OSPINA POSADA, ANGELA MARIA             ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-08-17 13:58:55.100,96008934,DNI
+488,DNI 18337332,KLOSTER CARLOS ALBERTO                  ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,18337332,DNI
+489,DNI 23670982,DERRICO GIMENO RODRIGO                  ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,23670982,DNI
+490,DNI 30408049,"OJEDA, CARLOS FAUSTINO                  ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,30408049,DNI
+491,DNI 32448532,"STIVANELLO, NOELIA SOLEDAD              ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,32448532,DNI
+492,DNI 33626647,MOLINAS ELIANA MABEL                    ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,33626647,DNI
+493,DNI 33914359,"NASELLO, MARIA BELEN                    ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,33914359,DNI
+494,DNI 36795098,CAULA KOFMANAS DANIELA DESIREE          ,HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,                              ,2021-10-04 12:59:45.883,36795098,DNI
+495,CUIT30717079295,VFGC SOCIEDAD ANONIMA VFGC SOC          ,BBVA_LEG_PREJU_EMP  ,NO UBICADO          ,,                              ,2021-09-20 12:12:07.430,30717079295,CUIT
+496,DNI 14884167,GUEDES NESTOR FABIAN                    ,HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,                              ,2021-10-04 12:59:45.883,14884167,DNI
+497,DNI 17395374,"SEVERO, PEDRO                           ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,17395374,DNI
+498,DNI 22641531,OJEDA MIGUEL ANGEL                      ,PRENDARIOS_LEGALES  ,NO VISTO            ,,,2021-09-30 13:56:11.430,22641531,DNI
+499,DNI 16799549,"RAMIREZ, SILVIA CRISTINA                ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,16799549,DNI
+500,DNI 24679777,"FARELA, IRENE NOELI                     ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,24679777,DNI
+501,DNI 34922244,"STRANGIS, MELANIE VIVIANA               ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,34922244,DNI
+502,DNI 35081537,"GRAVE, MARIA ALEJANDRA                  ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,35081537,DNI
+503,DNI 4549793,"SPIEGEL, LUIS ALBERTO                   ",HSBC_LEGALES14      ,NO VISTO            ,                    ,Libreta de Enrolamiento       ,2021-10-04 12:58:59.323,4549793,DNI
+504,DNI 18095686,MIGUEL RAUL                             ,PRENDARIOS_LEGALES  ,NO VISTO            ,,,2021-09-30 13:56:11.430,18095686,DNI
+505,DNI 20024938,"SCHNEIDER,ROXANA KARINA                 ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,20024938,DNI
+506,DNI 30073579,"CORREA, JUAN PABLO JOSE                 ",HSBC_LEGALES14      ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:58:59.323,30073579,DNI
+507,DNI 32825305,"MENDOZA, MARIA LUCIA                    ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,32825305,DNI
+508,DNI 33786678,"BAEZ, YESICA VANESA                     ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,33786678,DNI
+509,DNI 34596390,PEREZ DELGADO CAROLINA ANDREA           ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,34596390,DNI
+510,CUIT30715592203,JONATAN ANMUTH Y JULIAN ANMUTH          ,BBVA_LEG_PREJU_EMP  ,NO UBICADO          ,,                              ,2021-09-20 12:12:07.430,30715592203,CUIT
+511,DNI 28562143,ARGENTIERI FEDERICO CARLOS              ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,28562143,DNI
+512,DNI 28778851,"VARGAS ESPINOZA, NOELIA MAGALI          ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,28778851,DNI
+513,DNI 32087744,"ALMIRON, JESICA LORENA                  ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,32087744,DNI
+514,DNI 40909145,GITTO JONATHAN NAHUEL                   ,PRENDARIOS_LEGALES  ,NO VISTO            ,,,2021-09-30 13:56:11.430,40909145,DNI
+515,DNI 41812867,"ARIAS, JUAN RAMON                       ",HSBC_LEGALES14      ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:58:59.323,41812867,DNI
+516,DNI 12044868,DE SOUSA SERGIO                         ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,12044868,DNI
+517,DNI 12859463,CLERICI JORGE ANTONIO                   ,PRENDARIOS_LEGALES  ,NO VISTO            ,,,2021-09-30 13:56:11.430,12859463,DNI
+518,DNI 31770857,PAZ HECTOR ROLANDO                      ,PRENDARIOS_LEGALES  ,NO VISTO            ,,,2021-09-30 13:56:11.430,31770857,DNI
+519,DNI 32212706,"BENAVIDEZ, JESSICA ESTEFANIA            ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,32212706,DNI
+520,DNI 6612694,"LEDESMA, RAUL NICOLAS                   ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,6612694,DNI
+521,DNI 716959011,GALEANO PINTOS COSNTRUCCIONES SA        ,HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,CUIT (treinta)                ,2021-09-28 12:17:04.123,716959011,CUIT
+522,CUIT30683830530,FARMACIA DE LA PLAZA SCS FARMA          ,BBVA_LEG_PREJU_EMP  ,EN GESTION          ,,                              ,2021-09-20 12:12:07.430,30683830530,CUIT
+523,DNI 21645785,GOJMAN LUIS DANIEL                      ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,ARMADA 17-12                  ,2021-10-04 09:29:29.617,21645785,DNI
+524,DNI 29165168,ESCOBAR  JUAN PABLO                     ,HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,                              ,2021-10-04 12:59:45.883,29165168,DNI
+525,DNI 33196848,CEBALLOS MAXIMILIANO FABIAN             ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,19-07-2019                    ,2021-10-04 09:29:29.617,33196848,DNI
+526,DNI 39643378,"CONTRERAS, MAURO LEANDRO                ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,39643378,DNI
+527,DNI 4632586,"PERALTA, ANGELINA HORTENSIA             ",HSBC_LEGALES14      ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:58:59.323,4632586,DNI
+528,DNI 11224676,"CHARA, NORMA ISABEL                     ",HSBC_LEGALES14      ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:58:59.323,11224676,DNI
+529,DNI 17435574,"FARRAPEIRA, CLAUDIA MIRIAM              ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,17435574,DNI
+530,DNI 18144326,DIAZ  ALICIA MARIA                      ,HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,                              ,2021-10-04 12:59:45.883,18144326,DNI
+531,DNI 24313513,"BOSSO, DANIEL HERNAN                    ",HSBC_LEGALES14      ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:58:59.323,24313513,DNI
+532,DNI 26504874,TORRES  GERMAN JESUS                    ,HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,                              ,2021-10-04 12:59:45.883,26504874,DNI
+533,DNI 26635134,CRUZ DARIO CARLOS                       ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,05-02-2020 DIGITAL            ,2021-10-04 09:29:29.617,26635134,DNI
+534,DNI 33197287,ORELLANA  ELIAS                         ,HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,                              ,2021-10-04 12:59:45.883,33197287,DNI
+535,DNI 34447207,"MELONI, CARLA FLORENCIA                 ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,34447207,DNI
+536,DNI 95607103,"PRIETO MONTERO, DIEGO FERNANDO          ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,95607103,DNI
+537,DNI 18812441,LA FUENTE MELGAR JOSE LUIS              ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,18812441,DNI
+538,DNI 19024531,ESCURRA KRAUER ELIAS MANUEL             ,PRENDARIOS_LEGALES  ,NO VISTO            ,,,2021-09-30 13:56:11.430,19024531,DNI
+539,DNI 22445165,LUCERO WALTER FABIAN                    ,PRENDARIOS_LEGALES  ,NO VISTO            ,,,2021-09-30 13:56:11.430,22445165,DNI
+540,DNI 30257587,"OVIEDO CHAVEZ, VICTOR FERNANDO          ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,30257587,DNI
+541,DNI 32597562,"QUIROZ, CLAUDIA NOEMI                   ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,32597562,DNI
+542,DNI 709193283,EFACIL SRL                              ,HSBC_LEGALES14      ,EN GESTION          ,                    ,CUIT (treinta)                ,2021-08-30 17:40:07.250,709193283,CUIT
+543,DNI 715190768,ACEITUNA SRL                            ,HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,CUIT (treinta)                ,2021-08-17 13:58:55.100,715190768,CUIT
+544,DNI 95501274,BARROS NAYARA                           ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,95501274,DNI
+545,DNI 95644512,"FEO MARCHAN, CARLOS JOSE                ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,95644512,DNI
+546,DNI 33504670,NAVARRETE MELISA YASMIN                 ,PRENDARIOS_LEGALES  ,NO VISTO            ,,,2021-09-30 13:56:11.430,33504670,DNI
+547,DNI 40561957,ESCOBAR  LEONARDO GABRIEL               ,HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,                              ,2021-10-04 12:59:45.883,40561957,DNI
+548,DNI 30658293,SUAREZ LUCAS MATIAS                     ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,30658293,DNI
+549,DNI 37753853,"MOLLER, AXEL                            ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,37753853,DNI
+550,DNI 94607689,"DITA ALVAREZ, ALBENYS ESTHER            ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,94607689,DNI
+551,DNI 12349466,GUTIERREZ ALFREDO FRANCISCO             ,BBVA_LEG_PREJU_EMP  ,NO VISTO            ,,,2021-10-04 09:40:46.977,12349466,DNI
+552,DNI 14280637,"CONDON, GERARDO ENRIQUE                 ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,14280637,DNI
+553,DNI 18760774,GOMEZ ANTONIO                           ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,18760774,DNI
+554,DNI 21316497,BUSTILLOS ABEL                          ,HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,                              ,2021-10-04 12:59:45.883,21316497,DNI
+555,DNI 28164040,"FERNANDEZ, DIEGO CEFERINO               ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,28164040,DNI
+556,DNI 39004805,"FIGUEROA, JOSE GABRIEL                  ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,39004805,DNI
+557,DNI 39554190,"DI RISIO, BRAIAN URIEL                  ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,39554190,DNI
+558,DNI 12906416,DE FILIPPIS MARCOS EDUARDO ALBER        ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,12906416,DNI
+559,DNI 14915931,"FERNANDEZ,SUSANA M                      ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,14915931,DNI
+560,DNI 27640676,"VEGA, LORENA JOSEFINA                   ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,27640676,DNI
+561,DNI 29524266,NAVARRO SEBASTIAN CESAR                 ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,29524266,DNI
+562,DNI 32014819,"ESPANOL, JUAN MARCOS                    ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,32014819,DNI
+563,DNI 34793071,"FRADE, MATIAS FABIAN                    ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,34793071,DNI
+564,DNI 3697332,"MIGUENS DE VERA OCAM PO, AURELIA MARI   ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,3697332,DNI
+565,DNI 37688787,"DALMA ROCIO,KLEMAN                      ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,                              ,2021-10-04 12:59:45.883,37688787,DNI
+566,DNI 38693129,VIANO MELANIE LUCIANA                   ,HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,                              ,2021-10-04 12:59:45.883,38693129,DNI
+567,DNI 40574043,"PERALTA, DAVID ALEJANDRO                ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,40574043,DNI
+568,DNI 92998632,"AZURDUY GARCIA, JOSE ANTONIO            ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,92998632,DNI
+569,DNI 95959367,CASTRO QUINTERO CRISTIAN JESUS          ,BBVA_LEGALES_PREJU  ,NO VISTO            ,,,2021-10-04 09:29:29.617,95959367,DNI
+570,DNI 28086737,"NIETO, DANIEL ALBERTO                   ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,28086737,DNI
+571,DNI 29337966,NAVARRO CESAR GUSTAVO                   ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,29337966,DNI
+572,DNI 94026410,"COPA MAMANI, RAUL OSCAR                 ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,94026410,DNI
+573,CUIT30708049022,GUNAR SA GUNAR                          ,BBVA_LEG_PREJU_EMP  ,EN GESTION          ,,                              ,2021-09-23 15:41:51.723,30708049022,CUIT
+574,DNI 18875210,MIRANDA DIAZ ANGEL ANTONIO              ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,18875210,DNI
+575,DNI 21350446,"DIAZ, SILVIA ELENA                      ",HSBC_LEGALES14      ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:58:59.323,21350446,DNI
+576,DNI 32737653,"LALANDE, MARTIN ALEJANDRO               ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,32737653,DNI
+577,DNI 36566708,RAMOS ALEJANDRO JESUS                   ,BBVA_LEGALES_PREJU  ,NO VISTO            ,,,2021-10-04 09:29:29.617,36566708,DNI
+578,DNI 942117397,WENG DAORUI                             ,HSBC_LEGALES14      ,NO UBICADO          ,                    ,CUIT/CUIL/CIE (veinte)        ,2021-08-02 17:49:52.990,942117397,CUIT
+579,DNI 23801874,RIQUELME ENRIQUE OCTAVIO                ,PRENDARIOS_LEGALES  ,NO VISTO            ,,,2021-09-30 13:56:11.430,23801874,DNI
+580,DNI 27258595,"DOMINGUEZ, RICARDO OMAR                 ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,27258595,DNI
+581,DNI 35822685,SINGH ALFREDO EDUARDO                   ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,35822685,DNI
+582,DNI 17024001,VELAZQUEZ MONICA BEATRIZ                ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,17024001,DNI
+583,DNI 20014848,"PINEIRO, GABRIEL GUSTAVO                ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,20014848,DNI
+584,DNI 32480322,SANDOVAL ALEJANDRA BEATRIZ              ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,ASOCIART                      ,2021-10-04 09:29:29.617,32480322,DNI
+585,DNI 36161073,"FERREIRA, JOHANNA GABRIELA              ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,36161073,DNI
+586,DNI 38358518,"AMEIJEIRAS, MANUEL                      ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,38358518,DNI
+587,DNI 710601360,RESERVA FRUTAL S.R.L.                   ,HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,CUIT (treinta)                ,2021-08-02 17:50:31.837,710601360,CUIT
+588,DNI 16733709,"ORTIZ,MARCELA F                         ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,16733709,DNI
+589,DNI 23413140,GELVEZ ALICIA BEATRIZ                   ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,23413140,DNI
+590,DNI 33373249,AGUIRRE MAXIMILIANO MART                ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,33373249,DNI
+591,DNI 35762512,BOGADO CRISTIAN ARIEL                   ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,35762512,DNI
+592,DNI 8413816,"PLAZA, HECTOR SEGUNDO                   ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,8413816,DNI
+593,DNI 17844173,SALVADOR FRANCISCO JESUS                ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,17844173,DNI
+594,DNI 18217140,BERTHOLAGA CLAUDIA MARCELA              ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,18217140,DNI
+595,DNI 33667349,"YABEN, JOSE MARIA                       ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,33667349,DNI
+596,DNI 35460090,MERCADO FLORENCIA MAGALI                ,HSBC_LEGALES14      ,NO VISTO            ,                    ,                              ,2021-10-04 12:58:59.323,35460090,DNI
+597,DNI 716484676,EVET SAS                                ,HSBC_LEGALES14      ,NO UBICADO          ,                    ,CUIT (treinta)                ,2021-06-22 16:31:06.257,716484676,CUIT
+598,CUIT33710955269,FIDEICOMISO LOS HUEMELES FIDEI          ,BBVA_LEG_PREJU_EMP  ,NO UBICADO          ,,                              ,2021-09-23 15:41:51.723,33710955269,CUIT
+599,DNI 12445355,"BELEN,JUAN ANGEL                        ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,12445355,DNI
+600,DNI 13362074,AZOFRA ROLANDO OSCAR                    ,HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,                              ,2021-10-04 12:59:45.883,13362074,DNI
+601,DNI 29485702,"RAMIREZ, DIEGO MARTIN                   ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,29485702,DNI
+602,DNI 29570194,CAMBERA Y SANCHEZ VA MARIANO RODRIGO    ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,29570194,DNI
+603,DNI 40346821,"AGUIRRE, PATRICIO IVAN                  ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,40346821,DNI
+604,DNI 4239282,"VALIANTE, LUIS CARLOS                   ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Libreta de Enrolamiento       ,2021-10-04 12:59:45.883,4239282,DNI
+605,DNI 12113891,SEBASTIANELLI HUGO CARLOS               ,HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,                              ,2021-10-04 12:59:45.883,12113891,DNI
+606,DNI 22361146,DE FEO FERNANDO DIEGO                   ,HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,                              ,2021-10-04 12:59:45.883,22361146,DNI
+607,DNI 27049875,DIAZ JUAN MANUEL                        ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,27049875,DNI
+608,DNI 29435625,LOPEZ GOTTA NANCY                       ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,29435625,DNI
+609,DNI 34517499,GARCIA YAMILA VERONICA                  ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,34517499,DNI
+610,DNI 708527994,CUYOIMPEX LOGISTICS SA                  ,HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,CUIT (treinta)                ,2021-09-07 12:14:39.367,708527994,CUIT
+611,DNI 11759232,"DALMAU, MIRTA BEATRIZ                   ",HSBC_LEGALES14      ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:58:59.323,11759232,DNI
+612,DNI 20633606,ALVES HECTOR DARIO                      ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,20633606,DNI
+613,DNI 26128221,DELGADO GLORIA ADRIANA                  ,HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,                              ,2021-10-04 12:59:45.883,26128221,DNI
+614,DNI 29780259,"PEREZ,NELSON                            ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,29780259,DNI
+615,DNI 34671677,"ROSSO, EDGARDO FRANCISCO                ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,34671677,DNI
+616,DNI 38394008,"ZARAGOZA, BRIAN ABEL                    ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,38394008,DNI
+617,DNI 582407084,CONS DE PROP LARREA 1080                ,HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,CUIT (treinta)                ,2021-08-09 13:31:25.290,582407084,CUIT
+618,DNI 21582106,ESPINOSA SILVINA NOEMI                  ,PRENDARIOS_LEGALES  ,NO VISTO            ,,,2021-09-30 13:56:11.430,21582106,DNI
+619,DNI 23568492,DJANSEZIAN SANTIAGO MARC                ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,23568492,DNI
+620,DNI 33345787,"MARTINEZ MOYANO, ROMINA GISEL           ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,33345787,DNI
+621,DNI 38301897,SANTANA SILVINA                         ,HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,                              ,2021-10-04 12:59:45.883,38301897,DNI
+622,DNI 38315585,AVALOS  PEDRO OSCAR                     ,HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,                              ,2021-10-04 12:59:45.883,38315585,DNI
+623,DNI 6016114,"DEL GRECO, OVIDIO JOSE                  ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,6016114,DNI
+624,DNI 711478791,NUEVO AIRE PATAGONICO SA                ,HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,CUIT (treinta)                ,2021-10-04 12:59:45.883,711478791,CUIT
+625,CUIT30711497036,MALEMAX SA MALEMAX SA                   ,BBVA_LEG_PREJU_EMP  ,NO VISTO            ,,,2021-10-04 09:40:46.977,30711497036,CUIT
+626,DNI 13773037,"BARRIOS, EDIT ISABEL                    ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,13773037,DNI
+627,DNI 18847038,"EUSTAQUIO,LOPEZ SEG                     ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,18847038,DNI
+628,DNI 23676601,"RONDINA, MARIA LAURA                    ",HSBC_LEGALES14      ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:58:59.323,23676601,DNI
+629,DNI 26236843,FLORES EDUARDO SEBASTIAN                ,PRENDARIOS_LEGALES  ,NO VISTO            ,,,2021-09-30 13:56:11.430,26236843,DNI
+630,DNI 34394749,DALOQUIO HERRERA SABRINA                ,HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,                              ,2021-10-04 12:59:45.883,34394749,DNI
+631,DNI 38851835,"GIACONE, MARIANO                        ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,38851835,DNI
+632,DNI 11038104,"RODRIGUEZ DE CELI, MARIA AMPARO         ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,11038104,DNI
+633,DNI 17072136,PAZ RAMONA LUCIA                        ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,17072136,DNI
+634,DNI 21960935,VARELA CRISTIAN ANDRES                  ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,21960935,DNI
+635,DNI 24959243,MARTINEZ MARIA LAURA                    ,HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,                              ,2021-10-04 12:59:45.883,24959243,DNI
+636,DNI 32792275,GIMENEZ GISELA SOLEDAD                  ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,32792275,DNI
+637,DNI 37147748,ORTIZ PANIAGUA LUTHER PATRICIO GUID     ,PRENDARIOS_LEGALES  ,NO VISTO            ,,,2021-09-30 13:56:11.430,37147748,DNI
+638,DNI 37246346,"MONTERO, JAZMIN SOL                     ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,37246346,DNI
+639,DNI 711137277,ESFERA INDUSTRIAL S.R.L.                ,HSBC_FOGAR          ,NO UBICADO          ,                    ,CUIT (treinta)                ,2021-08-09 12:32:19.050,711137277,CUIT
+640,DNI 11167229,BLANCO GRACIELA ZULEMA                  ,HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,                              ,2021-10-04 12:59:45.883,11167229,DNI
+641,DNI 11411352,"CASALE, OSCAR ANIBAL                    ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,11411352,DNI
+642,DNI 27156682,"STAGNARO, YISEL EDITH                   ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,27156682,DNI
+643,DNI 29477310,BONALDI  PAULA SOLEDAD                  ,HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,                              ,2021-10-04 12:59:45.883,29477310,DNI
+644,DNI 33867061,CABRERA LUCIANO BENJAMIN                ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,33867061,DNI
+645,DNI 35242765,"CASTILLO, PATRICIO LUCIANO              ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,35242765,DNI
+646,DNI 38348139,"HERNANDEZ JARMA, ERIKA JANNINA          ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,38348139,DNI
+647,DNI 7771455,"BULIT, JOSE MARCELO                     ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,7771455,DNI
+648,DNI 92486610,"CALABRESI, GUALTIERO                    ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,92486610,DNI
+649,DNI 11887069,AVALOS MOSQUEDA GLORIA CONCEPCION       ,PRENDARIOS_LEGALES  ,NO VISTO            ,,,2021-09-30 13:56:11.430,11887069,DNI
+650,DNI 18459041,ETCHEVEST CLAUDIA ALEJANDRA             ,HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,                              ,2021-10-04 12:59:45.883,18459041,DNI
+651,DNI 25414390,ARCE  TOMAS AVELINO                     ,HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,                              ,2021-10-04 12:59:45.883,25414390,DNI
+652,DNI 32016499,"BARBOZA, IVAN GABRIEL                   ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,32016499,DNI
+653,DNI 33274776,IRUSTA IVANA PAOLA                      ,HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,                              ,2021-10-04 12:59:45.883,33274776,DNI
+654,DNI 34725896,TARCAYA  YESICA ROMINA ANAHI            ,HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,                              ,2021-10-04 12:59:45.883,34725896,DNI
+655,DNI 92857135,"SAN MARTIN RUBILAR, LEDINO EDUARDO      ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,92857135,DNI
+656,DNI 94487261,VIVEROS RIOS JORGE ARMANDO              ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,94487261,DNI
+657,DNI 94567814,"MAIDANA MAIDANA, DAVID FERNANDO         ",HSBC_LEGALES_TEMP   ,NO UBICADO          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,94567814,DNI
+658,DNI 18153350,"SBRASCINI, CARLOS                       ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,18153350,DNI
+659,DNI 35868213,"CINELLI, ROBERTO IRINEO                 ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,35868213,DNI
+660,DNI 39383165,"TOLEDO, PAULA CELESTE                   ",HSBC_LEGALES_TEMP   ,NO VISTO            ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,39383165,DNI
+661,DNI 43335634,GONZALEZ JOSE JOEL                      ,PRENDARIOS_LEGALES  ,NO VISTO            ,,,2021-09-30 13:56:11.430,43335634,DNI
+662,DNI 14887264,MUNOZ ESTER ZUNILDA                     ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,14887264,DNI
+663,DNI 24100554,DELFUER ROLANDO DARIO                   ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,24100554,DNI
+664,DNI 14730587,CRUCIANI JORGE ALBERTO                  ,HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,                              ,2021-10-04 12:59:45.883,14730587,DNI
+665,DNI 22781995,RIQUELME MIGUEL ANGEL                   ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,22781995,DNI
+666,DNI 25247705,BLUMENFELD MARIANO                      ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,25247705,DNI
+667,DNI 27112611,FRANCO  NORMA BEATRIZ                   ,HSBC_LEGALES14      ,NO VISTO            ,                    ,casa particular               ,2021-10-04 12:58:59.323,27112611,DNI
+668,DNI 34100851,"WAUTHERS, EMANUEL ALEJANDRO             ",HSBC_LEGALES_TEMP   ,EN GESTION          ,                    ,Documento Nacional de Identida,2021-10-04 12:59:45.883,34100851,DNI
+669,DNI 34365260,LEYES JONATAN EMMANUEL                  ,BBVA_LEGALES_PREJU  ,EN GESTION          ,,                              ,2021-10-04 09:29:29.617,34365260,DNI

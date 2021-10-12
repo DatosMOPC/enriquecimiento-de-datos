@@ -351,7 +351,7 @@ def procesar(path_sumario, path_enriquecimiento,tipo):
                   "no_tieme@hotmail.com","no_utiliza@correo.com","no-mail@nomail.com","xx@hotmail.com",
                   "xxx@hotmail.com","xxx@yahoo.com","xxxx@gmail.com","xxxx@gmail.com","xxxx@hotmail.com",
                   "xxxx@hotmail.com","xxxx@hotmail.com","xxxxx@gmail.com","xxxxx@gmail.com","xxxxxx@hotmail.com",
-                  "xxxxxxxxx@hotmail.com"
+                  "xxxxxxxxx@hotmail.com", "aaaa@mail.com", "no_posee@4hotmail.com"
                  ]
     df_export1 = df_export1[~df_export1.DATO.isin(lista_filtrado)]
     df_export2 = df_export1.drop_duplicates(subset=["DATO"],keep=False)

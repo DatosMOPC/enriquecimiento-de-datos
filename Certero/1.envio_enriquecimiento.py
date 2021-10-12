@@ -27,6 +27,8 @@ df_fisica = df[df["TIPO"]!="CUIT"]
 path1 = "Datos_mandados/enriquecimiento_fis_"+str(datetime.date.today())+".csv"
 path2 = "Datos_mandados/enriquecimiento_jur_"+str(datetime.date.today())+".csv"
 
+df_fisica = df_fisica.dropna(subset=['DOCUMENTO'])
+
 df_fisica = df_fisica[df_fisica['TIPO']!='LE']
 df_fisica = df_fisica[df_fisica['TIPO']!='LC']
 df_fisica.to_csv(path1,index=False)
