@@ -1,0 +1,567 @@
+,IDMOROSO,NOMBRE,IDCLIENTE,ESTADO,FILTROA,DATOADIC,FASIGNACION,DOCUMENTO,TIPO
+0,DNI 7594506,MANDRA JUAN ROBERTO                     ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:54,7594506,DNI
+1,DNI 10743783,GIURASTANTE SILVIA MONICA               ,COTO15_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:31,10743783,DNI
+2,DNI 21497370,TOLEDO SILVIA NOEMI                     ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,21497370,DNI
+3,DNI 18747447,PEREA WALTER FUNES                      ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,CONSORCIO DE PROPIETARIOS     ,2021-09-10 15:35:27,18747447,DNI
+4,DNI 20019584,ALVAREZ JOSE MARIA                      ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,20019584,DNI
+5,DNI 25404988,IBARROLA GABRIEL MARTIN                 ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-10 15:35:27,25404988,DNI
+6,DNI 13623168,QUIROGA SERGIO RAUL                     ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,13623168,DNI
+7,DNI 23873821,ESCUBILLA EMILIO MARCELO                ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,23873821,DNI
+8,DNI 26680486,ALARCON HORACIO ARGENTINO               ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,arangio sociedad anonima      ,2021-09-24 16:10:03,26680486,DNI
+9,DNI 30667374,BRANDAN LUCAS IGNACIO                   ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:54,30667374,DNI
+10,DNI 26788823,MENOTTI NIDIA YESICA                    ,COTO15_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:31,26788823,DNI
+11,DNI 1731543,CABEDA DOMINGA NELLY                    ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,1731543,DNI
+12,DNI 4374833,VEGA  JUAN CARLOS                       ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:54,4374833,DNI
+13,DNI 18485446,SANCHEZ  NELIDA RAMONA                  ,COTO05_TARD         ,NO VISTO            ,TRAMO3              ,JORGE ALBERTO PENA            ,2021-09-24 16:10:03,18485446,DNI
+14,DNI 16511495,"GARCIA,ALICIA CLAUDIA                   ",COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 00:00:00,16511495,DNI
+15,DNI 10308138,"KOROPESKI,MARIA FRANCISCA               ",COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,10308138,DNI
+16,DNI 29009200,GONZALEZ MATIAS ENRIQUE                 ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,LA PRIMERA DE GRAN BOURG      ,2021-09-24 16:10:03,29009200,DNI
+17,DNI 30733183,ALFONSO ANALIA VERONICA                 ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,30733183,DNI
+18,LC  93922141,SANCHEZ RIVERA VALENTINA                ,COTO15_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:31,93922141,LC
+19,DNI 2512966,Rocha Celia Antonia                     ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:54,2512966,DNI
+20,DNI 18301824,GOMEZ VIVIANA                           ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,GONZALEZ HECTOR RUBEN         ,2021-10-05 17:05:54,18301824,DNI
+21,DNI 22133822,ZAFFE ARIEL FABIAN                      ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,MUNICIPALIDAD DE LA COSTA     ,2021-10-05 17:05:54,22133822,DNI
+22,LE  11357844,MALDONADO LUIS FERNANDO                 ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:54,11357844,LE
+23,DNI 11726911,CAEZZA JOSE LUIS                        ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,11726911,DNI
+24,DNI 25899872,ROBLEDO  MARGARITA                      ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,25899872,DNI
+25,DNI 14561015,VISONA HUGO RODOLFO                     ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,14561015,DNI
+26,DNI 94232772,ALCARAZ ZARATE DILMA                    ,COTO15_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:31,94232772,DNI
+27,DNI 36448557,AMARILLA AIDA VICTORIA                  ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,36448557,DNI
+28,DNI 32481459,PALACIO CINTIA ELIZABETH                ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,baez catering                 ,2021-09-24 16:10:03,32481459,DNI
+29,DNI 33225339,MERELES RODRIGO DAMIAN                  ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,BASE OPERATIVA N? 5 DE MORENO ,2021-10-05 17:05:54,33225339,DNI
+30,DNI 5977105,DUARTE MARIA HILDA                      ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-10 15:35:27,5977105,DNI
+31,DNI 36412988,LOPEZ LAURA CRISTINA                    ,COTO15_TARD         ,NO UBICADO          ,TRAMO3              ,poroto bionico                ,2021-10-05 17:05:31,36412988,DNI
+32,DNI 20206540,GALARZA ALICIA AHIDE                    ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,gonzales pablo                ,2021-10-05 17:05:54,20206540,DNI
+33,DNI 26499978,MEDINA SILVANA MARIANA                  ,COTO15_TARD         ,NO UBICADO          ,TRAMO3              ,NADINE SA                     ,2021-10-05 17:05:31,26499978,DNI
+34,DNI 17651051,LORENZO CORDOBA JOSE                    ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:54,17651051,DNI
+35,DNI 13410295,MAZARIEGO MARIA ALEJANDRA               ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,10082013                      ,2021-10-05 17:05:54,13410295,DNI
+36,DNI 21535814,ESPINDOLA  GLADYS ELIZABETH             ,COTO15_TARD         ,NO VISTO            ,TRAMO3              ,Colegio especial Papai        ,2021-10-05 17:05:31,21535814,DNI
+37,DNI 16718653,SOTELO MARIA ESTER                      ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-10 15:35:27,16718653,DNI
+38,DNI 27028320,LAZARTE VERONICA DANIELA                ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,TROQUEL COR ITUZAINGO SA      ,2021-10-05 17:05:54,27028320,DNI
+39,DNI 14850315,QUIROGA  PATRICIO RUMALDO               ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,juan ramon aguirre lanar      ,2021-10-05 17:05:54,14850315,DNI
+40,DNI 23439141,GALAN MARIA DE LAS MERCEDES             ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,EBY ENTIDAD BINACIONAL YACYRET,2021-10-05 17:05:54,23439141,DNI
+41,DNI 95322447,SAYAN ALVAN ROSA DE SANTA MARI          ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,EMPLEADA DOMESTICA            ,2021-09-24 16:10:03,95322447,DNI
+42,DNI 43782039,GUTIERREZ MIRYAM EVANGELINA             ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,COMISARIA HURLINGHAM PRIMERA  ,2021-10-05 17:05:54,43782039,DNI
+43,DNI 18865914,ABALOS MARIA TERESA                     ,COTO15_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:31,18865914,DNI
+44,DNI 10122603,ROMERO ANA MARIA                        ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,10122603,DNI
+45,DNI 14364253,ARIAS ALFREDO OSCAR                     ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-10 15:35:27,14364253,DNI
+46,DNI 31089922,ABOY  YANINA VANESA                     ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,31089922,DNI
+47,DNI 8341877,FRETE DIONISIO ANTONIO                  ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,8341877,DNI
+48,DNI 30680403,DELGADILLO OLIVA BERNARDO ANTO          ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:54,30680403,DNI
+49,DNI 12279496,FERNANDEZ PABLO ALFREDO                 ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,12279496,DNI
+50,DNI 18405755,CORNEJO MARCELO LUIS                    ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-10 15:35:27,18405755,DNI
+51,DNI 25705770,ARIAS ADRIANA GISELA                    ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-10 15:35:27,25705770,DNI
+52,DNI 12009995,BLASCO FLORENTINA                       ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:54,12009995,DNI
+53,DNI 5441755,GONZALEZ LEONOR                         ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,5441755,DNI
+54,DNI 13277144,HERZOVICH PATRICIA                      ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-10 15:35:27,13277144,DNI
+55,DNI 27887618,ADORNO  ITATI ROXANA                    ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,27887618,DNI
+56,DNI 13465170,KEVARKIAN NORMA SUSANA                  ,COTO05_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-09-24 16:10:03,13465170,DNI
+57,DNI 29655336,PALERMO ROMINA MARIEL                   ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,ministero  de desarrollosocial,2021-10-05 17:05:54,29655336,DNI
+58,DNI 8093256,LOPEZ FRANCISCO ROGELIO                 ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:54,8093256,DNI
+59,DNI 27637640,GUZMAN IVANA MARIELA                    ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,escuela 17 gestion estatal    ,2021-09-24 16:10:03,27637640,DNI
+60,DNI 3780234,SALINAS DOMINGA FELISA                  ,COTO15_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:31,3780234,DNI
+61,DNI 7574198,MICHELON VELIA                          ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:54,7574198,DNI
+62,DNI 94054817,SAGASTEGUI CHAVEZ ROSA ELVIRA           ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,94054817,DNI
+63,DNI 4090971,PRIVIDERA AMELIA LUCIA                  ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,4090971,DNI
+64,DNI 4403690,SAVINO  JORGE RITO                      ,COTO15_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:31,4403690,DNI
+65,DNI 8550357,MAZZITELLI JOSE PABLO                   ,COTO15_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:31,8550357,DNI
+66,DNI 12645117,MALDONADO ANA ISABEL                    ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,12645117,DNI
+67,DNI 94649760,SANCHEZ GUTIERREZ  LUIS ALBER           ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,SEAT                          ,2021-10-05 17:05:54,94649760,DNI
+68,DNI 4386098,"SALA DE REGGIO, MARTA HAYDEE            ",COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,4386098,DNI
+69,LC  5054378,"MAREGO,HECTOR OSCAR                     ",COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,5054378,LC
+70,DNI 94063883,VEIZAGA ROJAS GOLDI                     ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,94063883,DNI
+71,DNI 5892418,ORELLANA MARIA ESTHER                   ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,5892418,DNI
+72,DNI 33995842,PALACIO JAVIER EZEQUIEL                 ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,better catering               ,2021-10-05 17:05:54,33995842,DNI
+73,DNI 92420437,AQUINO  MARIO                           ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,92420437,DNI
+74,DNI 7661579,BATTISTONI ANGEL LUIS                   ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:54,7661579,DNI
+75,DNI 28843697,PELLICANI  AGUSTINA PAULA               ,COTO15_TARD         ,NO VISTO            ,TRAMO3              ,FOOD SERVICE AMERICA SA       ,2021-10-05 17:05:31,28843697,DNI
+76,DNI 33114734,MOLINA  WALTER ANTONIO                  ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-10 15:35:27,33114734,DNI
+77,DNI 27170296,FRANCAVILLA SABRINA BARBARA             ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:54,27170296,DNI
+78,DNI 12270488,MELLINO ANA MARIA                       ,COTO23_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-09-10 15:35:27,12270488,DNI
+79,DNI 30135137,ALMIRON ROMINA GISEL                    ,COTO15_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:31,30135137,DNI
+80,DNI 4165584,QUIROGA NIDIA                           ,COTO15_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:31,4165584,DNI
+81,DNI 23480993,HUARACHI HECTOR                         ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,23480993,DNI
+82,DNI 92610168,FERREIRA SILVA  DAVID EDISON            ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,HOTEL FAMILIAR                ,2021-09-24 16:10:03,92610168,DNI
+83,DNI 18310932,PRIETO SUSANA MABEL                     ,COTO15_TARD         ,NO UBICADO          ,TRAMO3              ,GOBIERNO DE LA CIUDAD         ,2021-10-05 17:05:31,18310932,DNI
+84,DNI 28825284,BARRETO NESTOR                          ,COTO23_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-09-10 15:35:27,28825284,DNI
+85,DNI 28916049,RODRIGUEZ MARCELO  DAVID                ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,28916049,DNI
+86,DNI 3566327,RICCI CLARA                             ,COTO15_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:31,3566327,DNI
+87,DNI 20481399,SANCHEZ ELIZABETH JULIA                 ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,V4TSA                         ,2021-09-24 16:10:03,20481399,DNI
+88,DNI 93410530,IGLESIAS MARIA                          ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,93410530,DNI
+89,DNI 8172737,GUTIERREZ SOSA JOSE                     ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:54,8172737,DNI
+90,DNI 10469237,CASTINEIRA MARIA RITA                   ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,10469237,DNI
+91,DNI 23227067,MARTINEZ DORA ROSA ALBA                 ,COTO15_TARD         ,NO VISTO            ,TRAMO3              ,empleada domestica            ,2021-10-05 17:05:31,23227067,DNI
+92,DNI 96007297,MANUKYAN INGA                           ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,96007297,DNI
+93,DNI 6291879,TAIANA ELBA DELIA                       ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:54,6291879,DNI
+94,DNI 8270457,ZIVIC SERGIO                            ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,8270457,DNI
+95,LE  8249650,CATHCARTH MELCIADES ALBERTO             ,COTO15_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:31,8249650,LE
+96,DNI 11356860,CEJAS ANA ALISA                         ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-10 15:35:27,11356860,DNI
+97,DNI 30616398,ENRIQUEZ  NORA MARIANA                  ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,municipalidad de lanus        ,2021-09-10 15:35:27,30616398,DNI
+98,DNI 21773397,MORAN JORGE RAMON                       ,COTO15_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:31,21773397,DNI
+99,DNI 4540934,"MOUMDJIAN,ALBERTO RICAR                 ",COTO15_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:31,4540934,DNI
+100,DNI 94037473,YANAMANGO ELIZABETH JUANA               ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,CASA DE FAMILIA               ,2021-09-10 15:35:27,94037473,DNI
+101,DNI 20335393,CORIA CESAR RUBEN                       ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-10 15:35:27,20335393,DNI
+102,DNI 22024103,WERBICKI VIVIANA LAURA                  ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,22024103,DNI
+103,LC  3790333,"GONZALEZ NIEVAS,ELBA H                  ",COTO05_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-09-24 16:10:03,3790333,LC
+104,DNI 24994690,MAGGIO MARIA FLORENCIA                  ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,24994690,DNI
+105,DNI 16497086,PALOMO ROLANDO                          ,COTO15_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:31,16497086,DNI
+106,DNI 13664101,RAMOS  SUSANA AMANDA                    ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,GOBIERNO DE LA CIUDAD         ,2021-09-10 15:35:27,13664101,DNI
+107,DNI 17499360,FAITA ANDREA FABIANA                    ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:54,17499360,DNI
+108,DNI 22226977,AZZETTI LEONARDO                        ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,22226977,DNI
+109,DNI 22981039,VILDOZA CHRISTIAN HERNAN                ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:54,22981039,DNI
+110,DNI 4149417,LOPEZ  ZULMA DILMA                      ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,4149417,DNI
+111,DNI 21809365,TROILO GUSTAVO                          ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,21809365,DNI
+112,DNI 17287133,BROSKY MARCELO IGNACIO                  ,COTO15_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:31,17287133,DNI
+113,DNI 26299859,MONTOYA SERGIO DANIEL                   ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,CABLEVISION                   ,2021-09-10 15:35:27,26299859,DNI
+114,DNI 5635009,SILVA  ADELFIA                          ,COTO15_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:31,5635009,DNI
+115,DNI 29616524,GOMEZ DIEGO LEANDRO                     ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-10 15:35:27,29616524,DNI
+116,DNI 18076260,PASSARDI RITA MARIA ALEJANDRA           ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,18076260,DNI
+117,DNI 10678326,MACCARONE HAYDEE ROSARIO                ,COTO05_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-09-24 00:00:00,10678326,DNI
+118,DNI 93886970,MORAL RIVAROLA VICTORIA                 ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,93886970,DNI
+119,DNI 23525390,IBARRA ALEJANDRO ADRIAN                 ,COTO15_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:31,23525390,DNI
+120,LC  5575692,SOSA RAMONA ANTONIA                     ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,pelton                        ,2021-09-10 15:35:27,5575692,LC
+121,DNI 27636260,"PREZIOSO,LORENA NATALIA                 ",COTO15_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:31,27636260,DNI
+122,DNI 22195391,LAUZEL GUSTAVO ENRIQUE                  ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,etapsa                        ,2021-10-05 17:05:54,22195391,DNI
+123,DNI 26119183,BENITEZ HERNAN JAVIER                   ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,consorcio de propietarios     ,2021-10-05 17:05:54,26119183,DNI
+124,LC  6506923,PEREIRA  NELLY MARGARITA                ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,encar                         ,2021-10-05 17:05:54,6506923,LC
+125,DNI 4641290,PASCUAL MATILDE GRACIELA                ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-10 15:35:27,4641290,DNI
+126,DNI 24431141,CARLOS JUAN PABLO                       ,COTO15_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:31,24431141,DNI
+127,DNI 92645706,GONZALEZ HERRERA  JUAN DANIEL           ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:54,92645706,DNI
+128,DNI 11201330,PAURA MARIA CRISTINA                    ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,11201330,DNI
+129,DNI 39551087,BARBOZA ROCIO BELEN                     ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-10 15:35:27,39551087,DNI
+130,DNI 26661487,MARTIN ARIEL HERNAN                     ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,telecom                       ,2021-10-05 17:05:54,26661487,DNI
+131,DNI 25966746,TASSARA PAULA VALERIA                   ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,argen clear                   ,2021-09-24 16:10:03,25966746,DNI
+132,DNI 37424239,CORDOBA EVELYN GISELLE                  ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,ministerio de seguridad       ,2021-10-05 17:05:54,37424239,DNI
+133,DNI 4282339,REPETTO EDUARDO                         ,COTO15_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:31,4282339,DNI
+134,DNI 35416781,VILLARREAL NELSON ALEJANDRO             ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,35416781,DNI
+135,DNI 14679486,REALES SERGIO MIGUEL                    ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:54,14679486,DNI
+136,DNI 5454097,PEREZ BEATRIZ                           ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,5454097,DNI
+137,DNI 7836343,SEVILLANO NESTOR HORACIO                ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,7836343,DNI
+138,DNI 25475691,BARBA DANIEL ROBERTO                    ,COTO15_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:31,25475691,DNI
+139,DNI 10217348,DIAZ GLADYS TERESA                      ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:54,10217348,DNI
+140,DNI 14169574,PIÑA MIGUEL ADRIAN                      ,COTO05_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-09-24 16:10:03,14169574,DNI
+141,LC  5696013,"AMBROSETTI,BLANCA JUANA                 ",COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,5696013,LC
+142,DNI 32905611,CHAO HERNAN                             ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,pizzeria los tres ases        ,2021-09-10 15:35:27,32905611,DNI
+143,DNI 7932133,ACOSTA BENITO ARCADIO                   ,COTO15_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:31,7932133,DNI
+144,DNI 92015162,SUSLUAGA NILSA LOURDES                  ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-10 15:35:27,92015162,DNI
+145,DNI 4402943,GALSMAN ELIAS SAUL                      ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-10 15:35:27,4402943,DNI
+146,DNI 16950781,AVEIRO ESPINOLA JUANA                   ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,16950781,DNI
+147,DNI 28696617,DELGADO HUGO ENRIQUE                    ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,28696617,DNI
+148,DNI 30287647,TORO JOSE EDUARDO                       ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,crear textil                  ,2021-09-24 16:10:03,30287647,DNI
+149,DNI 5078676,OVIEDO ROSALIA                          ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,5078676,DNI
+150,DNI 16146096,MACIEL MIGUEL ISAURO                    ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,16146096,DNI
+151,DNI 93761645,VILLAVERDE LEGUIZA ISABEL               ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,93761645,DNI
+152,DNI 40458413,OCHOA  MARIA VICTORIA                   ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,arcos dorados                 ,2021-10-05 17:05:54,40458413,DNI
+153,DNI 25003528,RIOS LILIANA MABEL                      ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,tierna vaca                   ,2021-10-05 17:05:54,25003528,DNI
+154,DNI 6699243,"DOMINGUEZ, LUIS ANTONIO                 ",COTO10_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:54,6699243,DNI
+155,DNI 11458376,"HUCK,MARIA ESTER                        ",COTO10_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:54,11458376,DNI
+156,DNI 16623855,SANTOS NORBERTO FAUSTINO                ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,16623855,DNI
+157,DNI 11037125,GAMARRA NORMA PASCUALA                  ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,MUNICIPALIDAD DE LA MATANZA   ,2021-10-05 17:05:54,11037125,DNI
+158,DNI 23609813,ARCE ALEJANDRA                          ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,Ministerio de Desarrollo Human,2021-09-10 15:35:27,23609813,DNI
+159,DNI 5777510,DIAZ ANA RAQUEL                         ,COTO15_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:31,5777510,DNI
+160,DNI 92668898,"AGUILA,CRISTIAN                         ",COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-10 15:35:27,92668898,DNI
+161,DNI 31442087,CAPITANELLI MARIA NATALIA               ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,ospecon construir salud       ,2021-10-05 17:05:54,31442087,DNI
+162,LC  17732256,"SERPA, SILVIA ALEJANDRA                 ",COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,17732256,LC
+163,DNI 5752408,GUTIERREZ FAUSTINO                      ,COTO15_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:31,5752408,DNI
+164,DNI 11275850,GRAHL LILIANA MARTA                     ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,11275850,DNI
+165,DNI 4877601,RODRIGUEZ JUANA ROSA                    ,COTO15_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:31,4877601,DNI
+166,DNI 5884469,RIVEROS ENRIQUETA                       ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,5884469,DNI
+167,DNI 21857490,ROSA RAMOS REYNALDO                     ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,CONSORCIO DE PROPIETARIOS BARR,2021-09-10 15:35:27,21857490,DNI
+168,DNI 20281710,MUSCO  CLAUDIA GRACIELA                 ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,PRESENZA                      ,2021-09-10 15:35:27,20281710,DNI
+169,DNI 12789595,"LOPEZ,NESTOR ALBERTO                    ",COTO23_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-09-10 00:00:00,12789595,DNI
+170,DNI 22126651,COMAS MONICA ELIZABETH                  ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:54,22126651,DNI
+171,DNI 4368978,ALVAREZ OSVALDO ANTONIO                 ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,4368978,DNI
+172,DNI 10732189,CACCIATORE MARIA OFELIA                 ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:54,10732189,DNI
+173,DNI 11778341,MARTINEZ ANTONIO JULIO                  ,COTO15_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-10-05 17:05:31,11778341,DNI
+174,DNI 8487235,GONZALEZ HUGO FRANCISCO                 ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:54,8487235,DNI
+175,DNI 5259462,BUSTOS JUAN DOMINGO                     ,COTO10_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:54,5259462,DNI
+176,DNI 30497604,BARROCA JUAN MARCOS                     ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,justo rodero e hijos          ,2021-10-05 17:05:54,30497604,DNI
+177,DNI 23149834,MELLIA  MATIAS EUGENIO                  ,COTO10_TARD         ,NO UBICADO          ,TRAMO3              ,TELECENTRO SA                 ,2021-10-05 17:05:54,23149834,DNI
+178,DNI 10671623,SILVA ELIDA ELBA                        ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-10 15:35:27,10671623,DNI
+179,DNI 3959078,ANELLO MARIA DE GUADALUPE               ,COTO15_TARD         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 17:05:31,3959078,DNI
+180,DNI 28312126,CARABALLO CLAUDIO MARCELO               ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,28312126,DNI
+181,DNI 8528150,GONZALEZ BENJAMIN                       ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-10 15:35:27,8528150,DNI
+182,DNI 22312701,AMAYA CESAR MARIO                       ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,22312701,DNI
+183,LE  4872492,FRIGIDI MANUEL OSCAR                    ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,4872492,LE
+184,DNI 34306340,CASTILLO AYELEN VANESA                  ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,salon de belleza              ,2021-09-10 15:35:27,34306340,DNI
+185,DNI 12183268,MUÑOZ RICARDO OSVALDO                   ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,NALKIREM SA                   ,2021-09-10 15:35:27,12183268,DNI
+186,DNI 7940451,SOSA MANUEL AGUSTIN                     ,COTO23_TARD         ,NO UBICADO          ,TRAMO3              ,CERAMICA STEFANI S A C I      ,2021-09-10 15:35:27,7940451,DNI
+187,DNI 10428155,FEIJOO ANTONIA NELIDA                   ,COTO05_TARD         ,NO UBICADO          ,TRAMO3              ,                              ,2021-09-24 16:10:03,10428155,DNI
+188,DNI 2343774,DAFFARA MARIA ELENA                     ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,2343774,DNI
+189,LC 6553262,NIETO SUSANA BATRIZ                     ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC6553262,LC
+190,LE 26044905,BARBOZA GUSTAVO ALEJANDRO               ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE26044905,LE
+191,LC 4477377,GAITAN ELISA MARGARITA                  ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC4477377,LC
+192,LE 4832373,"LIBONATTI,OSVALDO HECTO                 ",COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE4832373,LE
+193,LE 8321983,SIRI JUAN CARLOS                        ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE8321983,LE
+194,LE 5623837,COUDRAY EUGENIO FAUSTINO                ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE5623837,LE
+195,LC 5761440,JAIME  MARTA BEATRIZ                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC5761440,LC
+196,LC 6406030,LAVAGGI MARIA ELENA                     ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC6406030,LC
+197,LC 1756556,LARIA NORMA                             ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC1756556,LC
+198,LC 6352784,DIAZ LAGUZZI GASS MERCEDES              ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC6352784,LC
+199,LE 18861237,CARRASCO MARCELO EMILIO                 ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE18861237,LE
+200,LE 92836978,TOTTIL ARTURO HERNAN                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE92836978,LE
+201,LE 7774122,DIAZ JUAN CARLOS                        ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE7774122,LE
+202,LC 24455613,ASTUDILLO VERONICA MERCEDES             ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC24455613,LC
+203,LE 7823752,CASTILLO CARLOS DANTE                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE7823752,LE
+204,LC 5973299,SPEZIALE CELSA JOSEFA                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC5973299,LC
+205,LC 6646179,SALAZAR ANGELICA DEL VALLE              ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC6646179,LC
+206,LE 12332758,VILLAGRAN PEDRO EUGENIO                 ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE12332758,LE
+207,LE 24022272,OBREGON ANDRES ANIBAL                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE24022272,LE
+208,DNI 16732987,CENTURION JOSE HORACIO                  ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,ESCO SERVIS SRL               ,2021-10-05 00:00:00,16732987,DNI
+209,LE 4858726,CARRIZO  JULIO CESAR                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE4858726,LE
+210,LE 7766541,DUFFY LAURO NARCISO                     ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE7766541,LE
+211,LC 4545173,ZABALA NORMA MARIA                      ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC4545173,LC
+212,LC 6653433,LOPEZ ALBA YOLANADA                     ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC6653433,LC
+213,DNI 4616850,MARQUEZ  MIRTHA ASUCENA                 ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,4616850,DNI
+214,LE 17228566,VELAZCO MARCELO FABIAN                  ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE17228566,LE
+215,LE 4894924,TEJEIRO IGNACIO MANUEL                  ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE4894924,LE
+216,DNI 11098863,ZIBECHI LAURA ELENA                     ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,11098863,DNI
+217,LC 5094068,SANTELLI TERESA                         ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC5094068,LC
+218,DNI 10970504,VERON HUGO RUBEN                        ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,10970504,DNI
+219,LE 4150081,ARRECHE BO RAUL                         ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE4150081,LE
+220,LC 4139181,ARANCENA ROSA BELERMINA                 ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC4139181,LC
+221,LC 5267715,DI MEO SERAFINA                         ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC5267715,LC
+222,LC 5637693,MANCUSO ANA MARIA                       ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC5637693,LC
+223,LC 3313776,"COBACHO,NIMIA YOLANDA                   ",COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC3313776,LC
+224,LE 4551731,SANTILLAN JUAN JOSE                     ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE4551731,LE
+225,LE 4557473,RODRIGUEZ RAUL HUGO                     ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE4557473,LE
+226,DNI 2734202,TT FALLECIO EL 05/08/2015               ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,2734202,DNI
+227,LC 5617258,KHODRE MARTA ESTELA                     ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC5617258,LC
+228,LE 7595539,ALBARRACIN JORGE FRANCISCO              ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE7595539,LE
+229,DNI 10761216,LEIVA MARIANO CARLOS                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,10761216,DNI
+230,LC 1672870,TOLABA SILVIA ESTHER                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC1672870,LC
+231,LC 2522980,AVILA LUISA CATALICIA                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC2522980,LC
+232,LC 6436399,"BOMBELLI,NELIDA                         ",COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC6436399,LC
+233,DNI 24420728,GONZALEZ  OSCAR ALBERTO                 ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,PLACFREN                      ,2021-10-05 00:00:00,24420728,DNI
+234,DNI 26036495,ESPINOSA CLAUDIO ALEJANDRO              ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,arcangel maggio sa            ,2021-10-05 00:00:00,26036495,DNI
+235,LC 3569739,LEIVA NELIDA ESTHER                     ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC3569739,LC
+236,LE 4528537,LUCERO RODOLFO                          ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE4528537,LE
+237,DNI 20471505,GOMEZ  CARLOS ALBERTO                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,POLICIA BONAERENSE            ,2021-10-05 00:00:00,20471505,DNI
+238,LE 4995594,CUADRELLI ENRIQUE CARLOS                ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE4995594,LE
+239,DNI 13730072,ALBARENGA ZULMA MIRTA                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,13730072,DNI
+240,LE 26465720,HUANCO CLAUDIO MARTIN                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE26465720,LE
+241,LC 5932662,NARDI NORMA                             ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC5932662,LC
+242,LC 7752677,MECKS EDUARDO                           ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC7752677,LC
+243,LE 8019784,MONDIETA LUIS CESAR                     ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE8019784,LE
+244,LE 4517936,BILSKY GERARDO ALBERTO                  ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE4517936,LE
+245,DNI 11713152,HERRERA GUILLERMO LUIS                  ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,11713152,DNI
+246,DNI 95002721,IGLESIAS PACO JIMENA                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,CASAS PARTICULARES            ,2021-10-05 00:00:00,95002721,DNI
+247,LC 29888114,DUCASSE MARIA DE LOS ANGELES            ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC29888114,LC
+248,LC 3877789,ARCURI GLORIA ARGENTINA                 ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC3877789,LC
+249,LE 8406823,LEDESMA ALENJADRO                       ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE8406823,LE
+250,DNI 5485103,FUNES  NELBA NOEMI                      ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,5485103,DNI
+251,DNI 28587729,MENDEZ NATALIA ALEJA N                  ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,28587729,DNI
+252,LC 11564332,SILVERI GUILLERMO ALFREDO               ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC11564332,LC
+253,LC 18381780,GONZALEZ VIVIANA ITATI                  ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC18381780,LC
+254,LC 4756142,MARTINEZ GERMINA                        ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC4756142,LC
+255,LE 5737840,MOREYRA  MERCEDES RUBEN                 ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE5737840,LE
+256,LE 7755407,LOGARZO HECTOR ALBERTO                  ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE7755407,LE
+257,DNI 14814851,GODOY JOSE MARCELO                      ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,14814851,DNI
+258,LC 11768789,BRESSI MARIA                            ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC11768789,LC
+259,LC 5164631,QUIROGA ANGELA NORMA                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC5164631,LC
+260,LC 5789306,DUARTE MARIA ESTHER                     ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC5789306,LC
+261,LC 94274678,MEGO RUIZ TOMASA AMERICA                ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC94274678,LC
+262,DNI 5319601,FERNANDEZ ISABEL MARIA                  ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,5319601,DNI
+263,LC 5266506,CRISTALDO  LUCIA                        ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC5266506,LC
+264,LE 22664538,PREYRA DANIEL ALFREDO                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE22664538,LE
+265,DNI 3873394,QUEVEDO OLGA ZULEMA                     ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,3873394,DNI
+266,LC 5204928,LESCANO EDDA CLARA                      ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC5204928,LC
+267,LE 5061270,BULGUBURE JORGE CARLOS                  ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE5061270,LE
+268,DNI 6388200,ARENA  MONICA MARIA CRISTINA            ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,6388200,DNI
+269,DNI 16114640,DE VINCETIS MIRYAM ELIZABETH            ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,limpido sa                    ,2021-10-05 00:00:00,16114640,DNI
+270,DNI 17196326,ROMANO MARIA ALEJANDRA                  ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,Estudio Juridico Di Carlo     ,2021-10-05 00:00:00,17196326,DNI
+271,LC 5733333,CHAPARRO ANDREA                         ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC5733333,LC
+272,LE 31727678,MARRERO MARCOS                          ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE31727678,LE
+273,LC 6294871,SCHIAVIO MARTA                          ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC6294871,LC
+274,LE 26688421,GOMEZ MARCELO CLAUDIO                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE26688421,LE
+275,DNI 93879468,MERELES CANDIDA                         ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,93879468,DNI
+276,LC 3285313,"LOTO,NELIDA BEATRIZ                     ",COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC3285313,LC
+277,LC 5086855,VOSS ELVIRA ELISA                       ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC5086855,LC
+278,LC 92610635,FERNANDEZ PINTOS   GRACIELA             ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC92610635,LC
+279,DNI 28961427,GODOY LAURA GUADALUPE                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,GRUPO ILHSA SA                ,2021-10-05 00:00:00,28961427,DNI
+280,LC 4574044,NAVARRO DAMIANA JESUS                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC4574044,LC
+281,LC 6033655,MENDEZ SUSANA BEATRIZ                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC6033655,LC
+282,LC 24204601,MERLI GABRIELA                          ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC24204601,LC
+283,LC 92762050,CACERES BETTY LILIAN                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC92762050,LC
+284,LE 4703118,PIERRI CLAUDIO MARCELO                  ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE4703118,LE
+285,LC 5875259,ROMERO ISABEL                           ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC5875259,LC
+286,LC 5880419,"OJEDA,MARIA                             ",COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC5880419,LC
+287,LE 18853455,MANAKHOV VICTOR                         ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE18853455,LE
+288,LE 7392671,COPPA HECTOR ARNULFO                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE7392671,LE
+289,DNI 9995264,GARCIA PABLA                            ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,9995264,DNI
+290,LC 3304703,ROMAN DELIA                             ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC3304703,LC
+291,LC 5634858,SALINAS MARTA ISABEL                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC5634858,LC
+292,LE 4439630,ALVAREZ JORGE                           ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE4439630,LE
+293,DNI 6147322,TORRES HUMBERTO                         ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,6147322,DNI
+294,LC 3869469,CALZON  ANA MARIA                       ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC3869469,LC
+295,LE 8495221,CENTURION CARLOS JULIO                  ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE8495221,LE
+296,DNI 28266107,CHOCOBAR PAMELA MELINA                  ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,28266107,DNI
+297,LC 21820467,PIANNELLI ANDREA NOEMI                  ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC21820467,LC
+298,LE 5222214,LEWCZUK JUAN                            ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE5222214,LE
+299,LE 8591842,VAINSTEIN GABRIEL  OSCAR                ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE8591842,LE
+300,LC 4517671,GIMENEZ PETRONA                         ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC4517671,LC
+301,LC 4969382,PAPPI CLARA                             ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC4969382,LC
+302,LC 5434895,SELZO NELIDA MERCEDES                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC5434895,LC
+303,LE 7727093,OLIVETO  ROBERTO LUIS                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE7727093,LE
+304,LE 18885267,ROMERO RAUL JONATHAN                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE18885267,LE
+305,LC 25220389,MUSSA CYNTHIA ROMINA                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC25220389,LC
+306,LE 27816518,ARREDONDO RODRIGO                       ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE27816518,LE
+307,LC 23025479,MOYANO PATRICIA HAYDE                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC23025479,LC
+308,LC 566500,MATEO  JUANA IDALIA                     ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC566500,LC
+309,LE 4151555,PATANE FERNANDO                         ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE4151555,LE
+310,LE 6188953,MEZA OSCAR ALFREDO                      ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE6188953,LE
+311,DNI 5900294,VIDAL ESTELA RAMONA                     ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,5900294,DNI
+312,LC 3039987,SALINAS ALICIA                          ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC3039987,LC
+313,LC 5651078,TOME NORA INES                          ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC5651078,LC
+314,LE 4270055,CAMPOS  HECTOR                          ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE4270055,LE
+315,LE 7702067,LEON OMAR                               ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE7702067,LE
+316,LC 93160835,FELDBERG CATALINA                       ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC93160835,LC
+317,LC 4249078,SOTO ROSA ESTER                         ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC4249078,LC
+318,LE 17962419,SILVERO LUIS IGNACION                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE17962419,LE
+319,LC 22919293,MARCHESE MARIA SILVANA                  ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC22919293,LC
+320,DNI 17656425,SENISE HECTOR ARMANDO                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,17656425,DNI
+321,LC 3497815,PLATAS AURORA                           ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC3497815,LC
+322,LC 4455888,LAMERA ELVIRA ALICIA                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC4455888,LC
+323,LC 4620774,CAMPAGNANI ELENA MAGDALENA              ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC4620774,LC
+324,LC 6209649,DIAZ  MARGARITA NELIDA                  ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC6209649,LC
+325,LE 7067785,AGUIRRE ANDRES ROBERTO                  ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE7067785,LE
+326,LC 620265,ROSELL ANA MARIA                        ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC620265,LC
+327,LC 23138255,"ALAGASTINO,ALEJANDRA EL                 ",COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC23138255,LC
+328,LC 3973267,CALDERON LIBERTAD ROSA                  ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC3973267,LC
+329,LC 6229178,CHAZARRETA CARMEN DEL VALLE             ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC6229178,LC
+330,DNI 29599387,ARELLO ELIZABETH GISELA                 ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,29599387,DNI
+331,DNI 5488940,PALOMBO ANA MARIA                       ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,5488940,DNI
+332,LC 2989387,BELLUOMINI NORMA TEODOLINDA             ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC2989387,LC
+333,LC 5617091,ANEL ALVARADO SUSANA BEATRIZ            ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC5617091,LC
+334,DNI 13302738,GOMEZ MARTA ELENA                       ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,13302738,DNI
+335,LE 4377857,GIUSTI HUGO RONAL                       ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE4377857,LE
+336,LE 4551842,CARRIZO JUAN BERNARDINO                 ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE4551842,LE
+337,LE 7618972,STEPANOVICH BASILIO                     ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE7618972,LE
+338,LC 2925255,MANISCALCO ELIDA                        ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC2925255,LC
+339,LE 4075655,CORVALAN MANUEL WENCESLAO               ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE4075655,LE
+340,DNI 4187840,PILTCH ENRIQUE                          ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,4187840,DNI
+341,LC 14689817,JURYK VALENTINA NATALIA                 ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC14689817,LC
+342,LC 6710280,HOYOS MARIA ANGELA                      ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC6710280,LC
+343,LE 24394376,SORIA ROBERTO CARLOS                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE24394376,LE
+344,DNI 4505142,TOLABA ELENA LIDIA                      ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,4505142,DNI
+345,LC 5632926,"MACHIN,NILDA BEATRIZ                    ",COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC5632926,LC
+346,LE 7723085,"GEZ,RUBEN IGNACIO                       ",COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE7723085,LE
+347,DNI 62653950,DIAZ RIVERO DAIYANA                     ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,BIO CIENTIFICA                ,2021-10-05 00:00:00,62653950,DNI
+348,LC 5254797,CAMINO MARIA INES                       ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC5254797,LC
+349,LE 5088638,"BAJINAY, WALTER RAFAEL                  ",COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE5088638,LE
+350,LE 8403301,"MINO,RAMON DANILO                       ",COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE8403301,LE
+351,LE 4832389,RODRIGUEZ ROBERTO                       ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE4832389,LE
+352,DNI 4871957,CECCONI RAUL JORGE                      ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,4871957,DNI
+353,LC 6656637,MARTINEZ NORMA SUSANA                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC6656637,LC
+354,DNI 10090133,ESPINDOLA ANGEL CESAR                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,municipalidad lanus           ,2021-10-05 00:00:00,10090133,DNI
+355,LE 28725509,GALVEZ  WALTER DANIEL                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE28725509,LE
+356,LC 5774363,ALVAREZ SUSANA ELVIRA                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC5774363,LC
+357,DNI 16038378,MIRANDA VIVIAN EDITH                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,16038378,DNI
+358,LC 5888647,SULLEIRO BEATRIZ SUSANA                 ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC5888647,LC
+359,LE 4417168,FAGILDE JOSE ALBERTO                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE4417168,LE
+360,LE 4536488,RODRIGUEZ NESTOR DANIEL                 ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE4536488,LE
+361,LE 20962096,FERNANDEZ LILIANA MIRIAN                ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE20962096,LE
+362,LC 5086597,LUQUE LUISA                             ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC5086597,LC
+363,LC 5925242,ESCUDERO ALIDA RAMONA                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC5925242,LC
+364,DNI 13431676,RICCI OSCAR ENRIQUE                     ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,ideas educativas S A          ,2021-10-05 00:00:00,13431676,DNI
+365,LE 4169567,CORRAL MANUEL                           ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE4169567,LE
+366,LE 5468344,POLIDOR ALEJANDRO                       ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE5468344,LE
+367,LE 5080214,MAZUROK RAUL ALBERTO                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE5080214,LE
+368,LC 9985191,"MUSSE,LIDIA                             ",COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC9985191,LC
+369,LE 13754127,ZARRIELLO JORGE ALEJANDRO               ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE13754127,LE
+370,LC 3919888,STRADOLINI ANA MARIA                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC3919888,LC
+371,LC 5073719,GUGLIELMO NORMA                         ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC5073719,LC
+372,LC 6354417,GRAF MARTA OFELIA                       ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC6354417,LC
+373,LC 6692211,OTERO ZULMA                             ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC6692211,LC
+374,LC 1133422,PEREZ MARTHA LILI                       ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC1133422,LC
+375,LC 3970961,VENTRICE DORA DELIA                     ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC3970961,LC
+376,LE 4160962,ROSSI RODOLFO CARLOS                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE4160962,LE
+377,DNI 5776666,ROSSELLO MARIA CRISTINA                 ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,5776666,DNI
+378,LC 5655249,GARCIA ELSA LIDIA                       ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC5655249,LC
+379,LC 6616578,AVALOS IRMA OLGA                        ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC6616578,LC
+380,LC 5571570,PAGANELLI ALICIA BEATRIZ                ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC5571570,LC
+381,LC 26606706,NUNEZ SOSA VALERIA CAROLINA             ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC26606706,LC
+382,LC 6707000,PILLA MABEL IRENE                       ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC6707000,LC
+383,DNI 11893524,LARA NORA NOEMI                         ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,municipalidad tres de febrero ,2021-10-05 00:00:00,11893524,DNI
+384,DNI 40398394,GUDINO SHEILA MELANIE                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,solo deportes                 ,2021-10-05 00:00:00,40398394,DNI
+385,LC 6149121,DEL VALLE OLGA BEATRIZ                  ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC6149121,LC
+386,LC 6425619,LOTO EDELMIRA ROSA                      ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC6425619,LC
+387,DNI 4456343,PRIETO FELICIDAD ROSARIO                ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,4456343,DNI
+388,DNI 5611078,LEIVA VICTORIANA                        ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,5611078,DNI
+389,LC 93895159,DAVALOS OTINIANO DORA SILVIA            ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC93895159,LC
+390,LC 5418477,DAMIANI MARTA                           ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC5418477,LC
+391,LC 6178156,GUEDALEVITCH RAQUEL SUSANA              ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC6178156,LC
+392,DNI 23692401,BELLO GUILLERMO DANIEL                  ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,gobierno de buenos aires      ,2021-10-05 00:00:00,23692401,DNI
+393,DNI 18133296,AQUINO MERCEDES NOEMI                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,18133296,DNI
+394,DNI 4236374,"TOLEDO, REINA VICTORIA                  ",COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,4236374,DNI
+395,DNI 30427058,SANCHIS MELIAN FEDERICO EZEQUI          ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,empresa ECG ingenieria y elect,2021-10-05 00:00:00,30427058,DNI
+396,LC 4073720,GARBELLINI NILDA                        ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC4073720,LC
+397,LC 4120533,VERA LAURA FILOMENA                     ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC4120533,LC
+398,LC 94099648,OVIEDO FRETES ARMINDA CONCEPCI          ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC94099648,LC
+399,DNI 12204548,ACOSTA MARIA DEL CARMEN                 ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,12204548,DNI
+400,LC 4506620,MONTERO  CARMEN                         ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC4506620,LC
+401,LE 35629724,SANTOS CRISTIAN OSCAR                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE35629724,LE
+402,LE 37548929,VALDEZ  LUCAS NICOLAS                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE37548929,LE
+403,LC 4605999,LISSALDE ELSA MABEL                     ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC4605999,LC
+404,DNI 16639926,COLARTE MARCELO GREGORIO                ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,CLUB RESIDENCIAL              ,2021-10-05 00:00:00,16639926,DNI
+405,LE 7651954,SHAALO VICTOR SALOMON                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE7651954,LE
+406,DNI 30525731,MAMMARELA DANTE JAVIER                  ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,30525731,DNI
+407,DNI 31926802,MORALES ALDANA BELEN                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,jardin colores                ,2021-10-05 00:00:00,31926802,DNI
+408,LE 8042936,BARRIONUEVO JULIAN SALVADOR             ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE8042936,LE
+409,LE 8492971,ASCONA ROQUE ANTONIO                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE8492971,LE
+410,DNI 4505262,DIAZ MABEL ALICIA                       ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,4505262,DNI
+411,LC 2350949,WIERNA MARIA ELENA                      ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC2350949,LC
+412,LC 32341779,BARRETO PEREZ DIANA KAREN               ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC32341779,LC
+413,DNI 11299095,BATISTA MARIA EVA                       ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,11299095,DNI
+414,DNI 6662167,DAMICO NELIDA JOSEFA                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,6662167,DNI
+415,LE 6046626,PELLO ALBERTO RAUL                      ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE6046626,LE
+416,LE 7202636,ACUNA FELIX MARCELO                     ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE7202636,LE
+417,LC 6362504,RAMIREZ BENEDICTA                       ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC6362504,LC
+418,LC 5899865,GOMEZ IRMA BEATRIZ                      ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC5899865,LC
+419,DNI 12864750,MASCARENO ELBA ESTER                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,12864750,DNI
+420,LC 4584978,SIMABUKURO ANTONIO                      ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC4584978,LC
+421,DNI 18258341,KRENZ VIRGINIA SILVIA                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,18258341,DNI
+422,LC 21499410,AGUIAR JULIA TERESA                     ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC21499410,LC
+423,LE 4301572,LALLI ARMANDO CAMILO ALBER              ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE4301572,LE
+424,LE 4372104,CABRERA ROBERTO RAUL                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE4372104,LE
+425,LC 5799476,CATALNU ELENA MARIA DEL CARM            ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC5799476,LC
+426,LE 7676380,CARDONA MARIO RUBEN                     ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE7676380,LE
+427,LC 4424701,SACCO  SUSANA BEATRIZ                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC4424701,LC
+428,LC 6141224,NUNEZ STELLA                            ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC6141224,LC
+429,LC 2829492,SANTILLAN MARIA ELENA                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC2829492,LC
+430,LC 4133964,"EPIZ,CLEDIA NOEMI                       ",COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC4133964,LC
+431,LC 4555616,FITERO ELENA BEATRIZ                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC4555616,LC
+432,DNI 13073405,MENINI JORGELINA                        ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,13073405,DNI
+433,DNI 17230040,VELAZQUEZ ANA DOLORES                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,CUIDADORA DE ANCIANO          ,2021-10-05 00:00:00,17230040,DNI
+434,LE 4114257,ROLDAN CLODOMIRO                        ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE4114257,LE
+435,LE 4513195,COPPOLA RICARDO ALBERTO                 ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE4513195,LE
+436,LE 8393145,MARTINOLI JUAN JOSE                     ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE8393145,LE
+437,LE 7760858,HUESCA CARLOS ALBERTO                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE7760858,LE
+438,DNI 93961443,HUAMAN VALDEZ SANTOS TERESA             ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,93961443,DNI
+439,LC 2741110,"CASCIO,CELIA MARIA                      ",COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC2741110,LC
+440,DNI 30846875,LALLANA CLAUDIA SOLEDAD                 ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,30846875,DNI
+441,LC 3762341,VIANA DE VICENZO FILOMENA ANA           ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC3762341,LC
+442,LE 4548486,DUARTE RAMON JORGE                      ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE4548486,LE
+443,LE 4733098,CULACIATTI FELIX                        ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE4733098,LE
+444,DNI 26160499,POMAR ERIKA NELIDA                      ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,balola restaurante            ,2021-10-05 00:00:00,26160499,DNI
+445,DNI 8402619,FLORIO MARCOS ANTONIO                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,8402619,DNI
+446,LC 25625788,GANDUGLIA GONZALEZ ROSANA ELEN          ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC25625788,LC
+447,LC 5596515,DIAZ VICTORIA                           ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC5596515,LC
+448,LC 6363374,LACUARDA GRACIELA GLADYS                ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC6363374,LC
+449,LE 16826072,CIARLANTINI AMILCAR ANGEL               ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE16826072,LE
+450,LE 5259205,"CIOFFI,JOSE ALBERTO                     ",COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE5259205,LE
+451,LC 24056125,LASTRA SULMA DOLORES                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC24056125,LC
+452,DNI 4875468,BARRIONUEVO LUIS CARLOS                 ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,4875468,DNI
+453,LC 6354643,SALDOVAL  MARIA ROSA                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC6354643,LC
+454,DNI 5422174,MEDINA BLANCA AURORA                    ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,5422174,DNI
+455,LC 14556353,"RUVINOS,MIRTA                           ",COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC14556353,LC
+456,LC 3961727,PEREZ ELSA ENRRIQUETA                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC3961727,LC
+457,LC 4212787,FABIANI  BELKYS NIDIA                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC4212787,LC
+458,LE 94803707,BURGOZ RODRIGUEZ CARLOS ALBERT          ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LE94803707,LE
+459,LC 4657959,BROGGI BEATRIZ                          ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC4657959,LC
+460,LE 6429837,BUSTOS CARLOS ANICETO                   ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LE6429837,LE
+461,LC 2790927,FORMICA ANA                             ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,                              ,2021-10-05 00:00:00,LC2790927,LC
+462,LC 5934200,MAYE ELSA AMELIA                        ,COTO_TARDIA         ,NO VISTO            ,TRAMO3              ,,2021-10-05 00:00:00,LC5934200,LC
+463,DNI 36374546,TOTCHILOVSKI CRISTIAN                   ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,36374546,DNI
+464,DNI 32220057,MANDARINO FEDERICO MATIAS               ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,32220057,DNI
+465,DNI 23790463,RECIO PAULO CESAR                       ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,23790463,DNI
+466,DNI 18583540,PEREYRA GRACIELA MABEL                  ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,18583540,DNI
+467,DNI 27274438,AMABILE ANDREA                          ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,27274438,DNI
+468,DNI 40699074,PAEZ JULIETA GISELLE                    ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,40699074,DNI
+469,DNI 32291957,FLORES DIEGO ARMANDO                    ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,32291957,DNI
+470,DNI 41004155,ESPINOSA CRISTIAN DAVID                 ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,41004155,DNI
+471,DNI 26418399,CHACON VERONICA DEL CARMEN              ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,26418399,DNI
+472,DNI 32779177,BARROS ADRIANA                          ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,32779177,DNI
+473,DNI 32959748,DOMINGUEZ FLORA GABRIELA VIVIA          ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,32959748,DNI
+474,DNI 34901116,NAPORICHI ALEJANDRO                     ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,34901116,DNI
+475,DNI 32809467,GUAYMAS DIEGO ALEJANDRO                 ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,32809467,DNI
+476,DNI 33010721,ASNAL JORGE MARCELO                     ,FRANCES_2012        ,ASIGNADO            ,2 - Ag 2ra          ,07-01-2020 DIGITAL            ,2021-10-13 08:27:07,33010721,DNI
+477,DNI 34464097,PRATVIEL ESTRELLA CRISTINA              ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,34464097,DNI
+478,DNIE95784980,PORTILLO ELISSA                         ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,95784980,DNI
+479,DNI 36962580,GALLARDO SOFIA JORGELINA                ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,36962580,DNI
+480,DNI 20457573,ACOSTA MARIA ELENA                      ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,20457573,DNI
+481,DNI 38561155,LAYOIA MATIAS                           ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,38561155,DNI
+482,DNIE95818511,PALACIOS OSORIO MARLON                  ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,95818511,DNI
+483,DNI 25083265,ZALAZAR NORBERTO                        ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,25083265,DNI
+484,DNI 43353843,GALLEGOS VALENTINA                      ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,43353843,DNI
+485,DNIE95904218,CASTELLANO ESCORCIA KENDRY ADALBERTO    ,FRANCES_2012        ,NO VISTO            ,1 - Ag 1ra          ,                              ,2021-10-13 08:27:07,95904218,DNI
+486,DNI 42687493,RUEJAS MILAGROS ELIZABETH               ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,42687493,DNI
+487,DNI 43743523,LEDESMA AYLEN LUCIA                     ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,43743523,DNI
+488,DNI 43371167,DEPETRIS NICOLAS LAUTARO                ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,43371167,DNI
+489,DNI 43743679,CORONEL MELANY                          ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,43743679,DNI
+490,DNI 34043729,ASTORGA LEONARDO SILVIO                 ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,34043729,DNI
+491,DNI 12295927,OLID CRISTINA DEL VALLE                 ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,12295927,DNI
+492,DNI 12475225,FERNADEZ LUISA CARMEN                   ,FRANCES_2012        ,ASIGNADO            ,2 - Ag 2ra          ,                              ,2021-10-13 08:27:07,12475225,DNI
+493,DNI 22269855,AGUERO ANALIA ROSA                      ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,22269855,DNI
+494,DNI 29156145,PEREZ EZEQUIEL LUIS                     ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,parabrisas boedo srl          ,2021-10-13 08:27:07,29156145,DNI
+495,DNI 25997154,NU SUSANA                               ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,25997154,DNI
+496,DNI 34212144,BARRAZA FEDERICO EZEQUIEL               ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,34212144,DNI
+497,DNI 37801595,MARTINEZ SEBASTIAN ORLANDO              ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,                              ,2021-10-13 08:27:07,37801595,DNI
+498,DNI 34279840,SANCHEZ CHRISTIAN FABIAN                ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,34279840,DNI
+499,DNIE95590289,BATISTA SOUZA RAYANA                    ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,95590289,DNI
+500,DNI 38356378,FERNANDEZ MELINA YANET                  ,FRANCES_2012        ,EN GESTION          ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,38356378,DNI
+501,DNI 38672363,CHARIANO NORBERTO LUIS OMAR             ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,38672363,DNI
+502,DNIE94620071,MONASTERIOS THANIA                      ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,94620071,DNI
+503,DNI 14950588,BOGADO MARIA SILVIA                     ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,14950588,DNI
+504,DNI 38688407,VARGAS ALBERTO NICOLAS                  ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,38688407,DNI
+505,DNI 29783087,BARRIOS ROMINA HILEN                    ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,29783087,DNI
+506,DNIE94773656,SANCHEZ TORRES MICHAEL JAMES            ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,94773656,DNI
+507,DNI 30350236,INDALECIO JORGE LUIS                    ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,30350236,DNI
+508,DNIE95283286,SANCHEZ FERRERAS YOHANNA ELIZA          ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,95283286,DNI
+509,DNIE95489681,FENILI CAROLINE                         ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,95489681,DNI
+510,DNI 34843318,SAUCEDO ROCIO SOLEDAD                   ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,34843318,DNI
+511,DNI 31034917,GONZALEZ SANDRA                         ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,31034917,DNI
+512,DNI 25900805,VENICA NICOLAS                          ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,25900805,DNI
+513,DNI 38699796,ROMERO ALEXIS                           ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,38699796,DNI
+514,DNIE93970028,CELIS VILLEGAS DANIEL ARMANDO           ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,93970028,DNI
+515,DNI 38761412,CEBALLOS AGOSTINA AYLEN                 ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,38761412,DNI
+516,DNI 40723842,LINARES LUZ MILENA                      ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,40723842,DNI
+517,DNI 36404834,SANCHEZ JIMENA SOLEDAD                  ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,36404834,DNI
+518,DNI 41076085,MELLADO MILAGROS NAHIR                  ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,41076085,DNI
+519,DNIE94835424,RECALDE OSVALDO                         ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,94835424,DNI
+520,DNI 17002889,PALOMEQUE MYRIAM DEL VALLE              ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,17002889,DNI
+521,DNI 38798951,SALDIVIA GERMAN                         ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,38798951,DNI
+522,DNI 31012106,VILLARRUEL MAYRA VANINA                 ,FRANCES_2012        ,EN GESTION          ,2 - Ag 2ra          ,29-10 DIGITAL                 ,2021-10-13 08:27:07,31012106,DNI
+523,DNI 31598459,GOMEZ ISRAEL                            ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,31598459,DNI
+524,DNI 34850522,PAZ CARLOS DARIO                        ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,34850522,DNI
+525,DNI 39333044,LINZALATA MELISA DENISE                 ,FRANCES_2012        ,NO VISTO            ,1 - Ag 1ra          ,                              ,2021-10-13 08:27:07,39333044,DNI
+526,DNI 18178961,BAROLIN RUT NANCI                       ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,18178961,DNI
+527,DNI 36089217,PENDITO FLORENCIA                       ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,36089217,DNI
+528,DNI 18255763,MARQUEZ RAMONA ARGEMINA                 ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,18255763,DNI
+529,DNI 41164109,PINI MARTINA AYELEN                     ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,41164109,DNI
+530,LC  7622978,TRONCOSO FELIPE NERI                    ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,7622978,LC
+531,DNI 35727000,GUIRIN LEYLA ALEJANDRA                  ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,35727000,DNI
+532,DNI 42483409,LEGUIZA JUAN ANTONIO                    ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,42483409,DNI
+533,DNI 36561113,MOLI A YESICA                           ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,36561113,DNI
+534,DNI 37318558,PAEZ LUIS ALBERTO                       ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,DNI 37318558                  ,2021-10-13 08:27:07,37318558,DNI
+535,DNI 41171320,GAYOL SOFIA ALDANA                      ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,41171320,DNI
+536,DNI 40304991,GARCIA ULISES SANTIAGO                  ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,40304991,DNI
+537,DNI 37020478,VILLAGRA YAMILA ANABELLA                ,FRANCES_2012        ,NO VISTO            ,3 - Ag 3ra          ,                              ,2021-10-13 08:27:07,37020478,DNI
+538,DNI 37258119,IBARRA FRANCO NICOLAS                   ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,37258119,DNI
+539,DNI 28216014,MIRANDA NOELIA SOLEDAD                  ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,28216014,DNI
+540,DNI 19062921,GARRIDO  ROMERO ECEQUIEL  ALEJ          ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,19062921,DNI
+541,DNI 35589953,LEIVA ANALUZ                            ,FRANCES_2012        ,ASIGNADO            ,3 - Ag 3ra          ,                              ,2021-10-13 08:27:07,35589953,DNI
+542,DNI 32645211,SOSA MARIA AMELIA                       ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,32645211,DNI
+543,DNI 24841701,SOTO FERNANDO GABRIEL                   ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,24841701,DNI
+544,DNI 18125676,PINTOS MARCELO GUSTAVO                  ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,18125676,DNI
+545,DNI 41314833,QUIROGA ROCIO BELEN                     ,FRANCES_2012        ,ASIGNADO            ,1 - Ag 1ra          ,07-10 FISICA                  ,2021-10-13 08:27:07,41314833,DNI
+546,DNI 40240624,AGUILAR JUAN                            ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,40240624,DNI
+547,DNI 40347513,GOROSITO HECTOR JAVIER                  ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,SIN MAIL                      ,2021-10-13 08:27:07,40347513,DNI
+548,DNI 42185373,CASTEIG FRANCO JOEL                     ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,42185373,DNI
+549,DNI 41767750,PIAZZOLI FABRIZIO NICOLAS               ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,41767750,DNI
+550,DNI 28566296,MORALES IVANA CRISTINA                  ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,28566296,DNI
+551,DNI 42585952,LARTIGUE AGUSTIN NICOLAS                ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,42585952,DNI
+552,DNI 24386169,CONDOLEO MARIA EUGENIA                  ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,DNI 24386169                  ,2021-10-13 08:27:07,24386169,DNI
+553,DNI 33114849,IGLESIAS NATALIA                        ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,33114849,DNI
+554,DNI 42595802,NUNES DOS SANTOS DYLAN AMARO            ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,42595802,DNI
+555,DNI 17362240,LOZA CARLOS ALBERTO                     ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,17362240,DNI
+556,DNI 32173999,QUIROGA RAMON SEBASTIAN                 ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,32173999,DNI
+557,DNI 32106110,MARTINEZ LIDIA                          ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,32106110,DNI
+558,DNI 17363202,ALVAREZ SANDRA CLAUD                    ,FRANCES_2012        ,ASIGNADO            ,2 - Ag 2ra          ,10-02-2020 DIGITAL            ,2021-10-13 08:27:07,17363202,DNI
+559,DNI 32197128,TORRES YANINA SOLEDAD                   ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,32197128,DNI
+560,DNI 40357164,PENALVA FLORENCIA                       ,FRANCES_2012        ,NO VISTO            ,1 - Ag 1ra          ,                              ,2021-10-13 08:27:07,40357164,DNI
+561,DNI 41874243,EGEA JESSICA                            ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,DNI 41874243                  ,2021-10-13 08:27:07,41874243,DNI
+562,DNI 42320083,VELIZ ANTONELLA TAMARA                  ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,42320083,DNI
+563,DNI 36365849,GUEVARA FERNANDO ALBERTO                ,FRANCES_2012        ,NO VISTO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,36365849,DNI
+564,DNI 17393879,NARANJO JUAN CARLOS                     ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,                              ,2021-10-13 08:27:07,17393879,DNI
+565,DNI 35339747,DIAZ MAIRA ADRIANA                      ,FRANCES_2012        ,ASIGNADO            ,4 - Ag 4ta          ,DNI 35339747                  ,2021-10-13 08:27:07,35339747,DNI

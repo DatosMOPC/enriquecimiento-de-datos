@@ -3,6 +3,12 @@ import numpy as np
 from datetime import date
 import datetime
 
+
+def limpiar(x):
+    if x[0]=='n': return ''
+    return x[0:-2]
+
+
 def procesar(path_sumario, path_enriquecimiento,tipo):
     df = pd.read_csv(path_sumario)
     # ## 1.2) Data Cleaning: Datasets
@@ -363,9 +369,23 @@ def procesar(path_sumario, path_enriquecimiento,tipo):
 # ## 14.2) Insert a tabla DAM_CONTACTABILIDAD:
 path_enr = "Datos_Enriquecimiento/Datos_Enriquecimiento_"+str(datetime.date.today())+".csv"
 df1 = procesar("sumario_fis.csv",path_enr,1) #TIPO 1 PARA FISICA
-df2 = procesar("sumario_jur.csv",path_enr,2) #TIPO 2 PARA JURIDICA
-df_export = pd.concat([df1,df2])
+ambos = 1
+try:
+    df2 = procesar("sumario_jur.csv",path_enr,2) #TIPO 2 PARA JURIDICA
+except:
+    ambos = 0
+    print('No se encontró sumario_jur por lo que no se procesó los jurídicos')
+if ambos:
+    df_export = pd.concat([df1,df2])
+else:
+    df_export = df1
 #df_export = df2
+
+#Solución a los .0 del final
+df_export['CUIT_CUIL'] = df_export['CUIT_CUIL'].astype(str)
+df_export['SCORE_DATO'] = df_export['SCORE_DATO'].astype(str)
+df_export.loc[:,'CUIT_CUIL'] = df_export['CUIT_CUIL'].map(limpiar)
+df_export.loc[:,'SCORE_DATO'] = df_export['SCORE_DATO'].map(limpiar)
 
 path = "insiders/mail_"+str(date.today())+".csv"
 df_export.to_csv(path,index=False)
